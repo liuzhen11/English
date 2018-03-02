@@ -52,4 +52,26 @@ automation Technology 自动化技术
 
 
 
+
+ **Calibration**
+
+1. 助记
+  校正；调整；其实最专业的翻译是**标定**
+  calibra-, calibr-, caliber-
+  French: degree of merit or importance; diameter of a bullet, cannon-ball, etc.; instrument for measuring the thickness, width, or distance through the center of a tube.
+2. 词源
+  **OED Origin**
+  Mid 19th century: from calibre + -ate.
+  **Etymology**
+  "determine the caliber of," 1839, verb formed from caliber + -ate (2). Also "determine the relative value of" different parts of an arbitrary scale (1869). Related: calibrated; calibrating.
+3. 释义
+  n. **标定**；校正；调整； 
+  * to mark units of measurement on an instrument such so that it can measure accurately.
+  * to check a measuring instrument to see if it is accurate.
+4. 相关词语和词组
+  Chessboard is a simple but very useful criteria for the calibration of robotic binocular vision.
+  对机器人双目视觉标定来说，国际象棋棋盘是简单但很有效的标准。
+
+
+
 #2.3.displines/词汇#
