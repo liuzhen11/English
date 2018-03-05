@@ -70,7 +70,9 @@ automation Technology 自动化技术
   * to check a measuring instrument to see if it is accurate.
 4. 相关词语和词组
   Chessboard is a simple but very useful criteria for the calibration of robotic binocular vision.
-  对机器人双目视觉标定来说，国际象棋棋盘是简单但很有效的标准。
+    对机器人双目视觉标定来说，国际象棋棋盘是简单但很有效的标准。
+
+
 
 
 
