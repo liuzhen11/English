@@ -111,4 +111,10 @@ Auspice(n.吉兆；预兆；(以飞鸟行动为根据的)占卜，词根“obser
 
 -  2018-03-05 Mo @Grace @董医生 @穆紫 设置完成ssh key, @aqua过程中遇到问题, @melody真 暂无进展.
 
--  2018-03-06 Tu @arnakin 早上08:40 喜当爹,得公主小棉袄一枚.🎉🎉🎉
+-  2018-03-06 Tu 建立三个互动项目 1) English 2) Reading 3)Coding
+
+   1. @arnakin 早上08:40 喜当爹,得公主小棉袄一枚.🎉🎉🎉
+   2. 建立三个互动项目:
+      1. English
+      2. Reading
+      3. Coding
