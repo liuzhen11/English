@@ -118,3 +118,5 @@ Auspice(n.吉兆；预兆；(以飞鸟行动为根据的)占卜，词根“obser
       1. English
       2. Reading
       3. Coding
+
+- 2018-03-07 We 搭建初步协作模式.
