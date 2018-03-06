@@ -1,6 +1,98 @@
+## 2018-03-06
+
+##  Think Python
+
+```python
+      brief =['Preface',
+               '1:The Way of the Program',
+               '2:Variables,Expressions and Statements',
+               '3:Functions',
+               '4:Case Study:Interface Design',
+               '5:Conditionals and Recursion',
+               '6:Fruitful Functions',
+               '7:Iteration',
+               '8:String',
+               '9:Case Study:Word Play',
+               '10:Lists',
+               '11:Dictionaries'
+               '12.Tuples',
+               '13:Case Study:Data Structure Selection',
+               '14:Files'
+               '15.Classes and Objects',
+               '16:Classes and Functions',
+               '17:Classes and Methods'
+               '18:Inheritance',
+               '19:The Goodies'
+               '20.Debugging',
+               '21:Analysis of Algorithms',
+               'Index']
+
+          1:The Way of the Program=
+              ['What Is a Program',
+               'Running Python',
+               'The First Program',
+               'Arithmetic Operators',
+               'Values and Types',
+               'Formal and Natural Languages',
+               'Debugging',
+               'Glossary',
+               'Exercises']
+       
+```
+
+###  
+
+**1:The Way of the Program**
+
+```python
+1:The Way of the Program = ['Program','Python' ]
+```
+
+**Program** /ˈproʊ.ɡræm/ 程序
+
+1. 助记,
+   Pro + gram
+
+2. 词源,
+   **OED Origin**
+
+   US spelling of [programme](https://en.oxforddictionaries.com/definition/programme) (also widely used in computing contexts)
+   **Etymology**
+
+   1630s, "public notice," from Late Latin programma "proclamation, edict," from Greek programma "a written public notice," from stem of prographein "to write publicly," **from pro "forth" (see [pro-](https://www.etymonline.com/word/pro-?ref=etymonline_crossreference)) +graphein "to write" (see [-graphy](https://www.etymonline.com/word/-graphy?ref=etymonline_crossreference)).**
+
+3. 释义,
+   程序  to write a series of instructions that make a computer perform a particularoperation
+
+4. 拓展
+
+   英语单词program来自希腊语programma，由pro（往前）+gramma（写、画）构成，字面意思就是“书写出来的东西”，指的是书面公告。进入英语后原本指的也是“书面公告”。由于此类公告通常不是法律方面的，而是关于一些活动的预告、办事指南之类，因此program一词逐渐用来表示公告所涉及的内容本身，如活动、计划、程序、节目等。
+   ​
+
+**Python**/ˈpaɪ.θɑːn/ 巨蟒
+
+1. 助记,
+   Pytho
+
+2. 词源,
+   **OED Origin**
+
+   Late 16th century (in the Greek sense): via Latin from Greek Puthōn, the name of a huge serpent killed by Apollo. The main current sense dates from the mid 19th century.
+   **Etymology**
+
+   1580s, fabled serpent, slain by Apollo near Delphi, from Latin Python, from Greek Python "serpent slain by Apollo," probably related to Pytho, the old name of Delphi, perhaps itself related to pythein "to rot," or from PIE *dhubh-(o)n-, from *dheub- "hollow, deep, bottom, depths," and used in reference to the monsters who inhabit them. Zoological application to large non-venomous snakes of the tropics is from 1836, originally in French.
+
+3. 释义,
+   巨蟒  a very large snake that kills animals for food by wrapping itself around them andcrushing them
+
+4. 拓展
+
+   在希腊神话中，当天后赫拉听说勒托（Leto）怀上了宙斯的孩子后，大为恼火，想方设法阻扰勒托的生产，并派出一条名叫“皮同“（Python）的巨蟒来袭击勒托。勒托被巨蟒追得无处栖身，后来逃到海中一个荒岛上才找到一个生产之地。勒托花了九天九夜才生下一对孪生子，即月亮女神阿尔忒弥斯和光明神阿波罗。阿波罗长大后，替母复仇，在德尔斐（Delphi）附近的海湾杀死了巨蟒皮同。人们在德尔斐修建了一座阿波罗神殿作为纪念。因为阿波罗拥有强大的预言能力，所以该神殿以其准确的“神谕”（Oracle）而闻名。
+   英语单词python（巨蟒）就源自被阿波罗杀死的巨蟒的希腊语名字Python。在希腊语中，Python的来源可能与德尔菲的旧称Pytho有关。
 
 
-# 2018-02-28
+
+## 2018-02-28
 
 ## Github 'Hello World' Guide
 
@@ -221,4 +313,4 @@ Preface = ['project', 'repository', 'commit']
 
 
 
-#2.3.displines/词汇#
+
