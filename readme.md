@@ -91,7 +91,7 @@ Auspice(n.吉兆；预兆；(以飞鸟行动为根据的)占卜，词根“obser
      ```
 
      1. Members
-        1. aqua2018](https://github.com/aqua2018)
+        1. [aqua2018](https://github.com/aqua2018)
         2. [GGG-Grace](https://github.com/GGG-Grace)
         3. [lanmz](https://github.com/lanmz)
         4. [liuzhen11](https://github.com/liuzhen11)
