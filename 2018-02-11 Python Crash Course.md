@@ -1,10 +1,9 @@
 # 2018-02-11 Python Crash Course
 
-#2.3.displines/词汇#
 
 
 **Book Name:** 
-![](2018-02-11%20Python%20Crash%20Course/b_half.png)
+![](https://ws2.sinaimg.cn/large/006tNc79ly1fp3bydfkmhj30f106gt9h.jpg)
 Python Crash Course
 A Hands-On, Project-Based Introduction to Programming
 
@@ -67,7 +66,7 @@ Meaning **"scheme, proposal, mental plan"** is from c. 1600. Meaning "group of l
 2) 投掷；发射(THROW)
 	[ T ] to throw or direct something forwards, with force
 3) 放映；投射（影、像或光） (MAKE AN IMAGE)
-	[ T ] to cause a film, image, or light to appear on a screen or other surface	 
+		 T ] to cause a film, image, or light to appear on a screen or other surface	 
 4. 拓展,
 **PMBOK** 美国项目管理协会的定义
 > A project is a **temporary** endeavor undertaken to create **a unique product, service, or result.**   
