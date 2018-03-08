@@ -124,4 +124,7 @@ Auspice(n.吉兆；预兆；(以飞鸟行动为根据的)占卜，词根“obser
    1. 搭建初步协作模式.
    2. @Grace使用Github提交作业.
 
-   ​
+- 2018-03-08 Th
+
+   1. 第一份Pull Request作业由@Grace提交
+   2. @aqua 完成PythonThink目录的查询阅读.
