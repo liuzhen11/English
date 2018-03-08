@@ -1,5 +1,7 @@
 @Grace
 
+2018-03-08
+
 **Injustice** UK /ɪnˈdʒʌstɪs/ US /ɪnˈdʒʌstɪs/
 
 1. 助记,
@@ -61,6 +63,9 @@
    **do yourself/sb an injustice** 待…不公正；冤枉
 
 
+
+
+2018-03-07
 
 **Obsolute** UK /ˈæbsəlu:t/ US /ˈæbsəˌlut/
 
