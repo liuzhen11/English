@@ -1,8 +1,4 @@
-# Think Python
-
-
-
-## Index and Content
+# **Think Python*
 
 ```python
       brief =['Preface',
@@ -85,7 +81,9 @@
        
 ```
 
-### 1: The Way of the Program
+###  
+
+**1:The Way of the Program**
 
 ```python
 1:The Way of the Program = ['Program','Python','Arithmetic','Debug','Glossary']
@@ -105,7 +103,7 @@
    1630s, "public notice," from Late Latin programma "proclamation, edict," from Greek programma "a written public notice," from stem of prographein "to write publicly," **from pro "forth" (see [pro-](https://www.etymonline.com/word/pro-?ref=etymonline_crossreference)) +graphein "to write" (see [-graphy](https://www.etymonline.com/word/-graphy?ref=etymonline_crossreference)).**
 
 3. 释义,
-    程序  to write a series of instructions that make a computer perform a particularoperation
+   程序  to write a series of instructions that make a computer perform a particularoperation
 
 4. 拓展
 
@@ -135,7 +133,6 @@
 
 
 
-
 **2018.03.07**
 
 **Arithmetic** /əˈrɪθ.mə.tɪk/ 算术
@@ -159,8 +156,6 @@
 
    arithmetic : arith-,计算，词源同read,reason-m,插入鼻音字母。希腊语里arithmos表示数字、总数，-etic后缀表pertaining to，arithmetic的字面意思是“(the) counting (art)”。这个单词与read、riddle谜语、rate比率；认为、ration配给；口粮和reason理由；推论等同源，但希腊人不习惯用字母r开头，所以......前边多了个a-。
 
-
-
 **Debug** /ˌdiːˈbʌɡ/  排除错误
 
 1. 助记,
@@ -179,8 +174,6 @@
 4. 拓展
 
    debug : de-,不，非，使相反，bug,故障。(尤指计算机程序的)排错器，消除误差。
-
-
 
 **Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
@@ -205,8 +198,7 @@
 
    ​
 
-
-### 2: Variables,Expressions and Statements
+**2:Variables,Expressions and Statements**
 
 ```
 2:Variables,Expressions and Statements = ['Variable','Assignment','Script']
@@ -233,8 +225,6 @@
 
    variable : 来自vary,改变，多变。通常与介词 from 连用，表示“不同于，有别于”，为正式用语，但也可以使用different to (或than)。
 
-
-
 **Assignment** /əˈsaɪn.mənt/ 任务
 
 1. 助记,
@@ -255,8 +245,6 @@
 4. 拓展
 
    略
-
-
 
 **Script** /skrɪpt/ 手稿
 
@@ -281,8 +269,7 @@
 
    ​
 
-
-### 3: Functions
+**3:Functions**
 
 ```
 3:Functions = ['Function','Composition','Execution','Parameter','Argument','Diagram','Fruitful']
@@ -313,7 +300,6 @@
 
    **2018.03.07**
 
-
 **Composition** /ˌkɑːm.pəˈzɪʃ.ən/  构成
 
 1. 助记,
@@ -334,8 +320,6 @@
 4. 拓展
 
    composition:com一起+posit+ion→放到一起→组合→构成，文章等。
-
-
 
  **Execution** /ˌek.səˈkjuː.ʃən/ 执行
 
@@ -358,8 +342,6 @@
 
    execution : [ex-=out出；(s)ecut=to follow跟随；-e→“to follow out of the procedure跟着程序出来”→].词根sec-指“跟随”，字母s缺失，因为它和ex-读音融合了.
 
-
-
 **Parameter** /pəˈræm.ə.t̬ɚ/ 参数
 
 1. 助记,
@@ -380,8 +362,6 @@
 4. 拓展
 
    parameter : para-,在旁，在周围，-meter,测量，规定，词源同meter,measure.引申词义参数，规范.【数学】参(变)数；参(变)量.
-
-
 
 **Argument** /ˈɑːrɡ.jə.mənt/ 论证
 
@@ -406,47 +386,7 @@
 
    引申：真理越辨越明。
 
-   > @豆腐块
-   >
-   > 这个分享,好惊喜.我也赶紧查了一下argus是百眼巨人,词根arg-shine(闪亮) 单词argent是闪亮的银白色. 辩论擦亮眼睛. @aqua  suffixed form of root *arg- "to shine; white," thus "silver" as "the shining or white metal."
-   >
-   > @董长青
-   >
-   > @aqua argos的故事很熟悉，未想到竟和argument有关，谢谢
-
-**Argue**
-
-1. 助记,
-
-   Argos 百眼巨人
-
-2. 词源,
-
-   **OED Origin**
-
-   Late Middle English: from Latin, from Greek Argos, the name of a watchman in Greek mythology who had a hundred eyes. After he was killed by Hermes, Hera used his eyes to decorate the peacock's tail.
-
-   **Etymology**
-
-   *argue (v.)*
-
-   c. 1300, "to make reasoned statements to prove or refute a proposition," from Old French arguer"maintain an opinion or view; harry, reproach, accuse, blame" (12c.), ultimately from Latin arguere"make clear, make known, prove, declare, demonstrate," from PIE *argu-yo-, suffixed form of root [*arg-](https://www.etymonline.com/word/*arg-?ref=etymonline_crossreference) "to shine; white." The transmission to French might be via arguere in a Medieval Latin sense of "to argue," or from Latin argutare "to prattle, prate," frequentative of arguere.De Vaan says arguere is probably "a denominative verb 'to make bright, enlighten' to an adj. *argu-'bright' as continued in argutus and outside Italic." He cites a closely similar formation in Hittite arkuuae- "to make a plea." Meaning "to oppose, dispute, contend in argument" is from late 14c. Related: Argued; arguing.
-
-3. 释义,
-
-   1) 争论；争吵；争辩 (DISAGREE)
-
-   B1 [[ I \]](https://dictionary.cambridge.org/zhs/help/codes.html) **to speak angrily to someone, telling that person that youdisagree with them**
-
-   2) verb (GIVE REASONS)
-
-   B2 [[ I or T \]](https://dictionary.cambridge.org/zhs/help/codes.html) **to give the reasons for your opinion, idea, belief, etc.**
-
-   论证；说理；辩论
-
    ​
-
-
 
 **Diagram**/ˈdaɪ.ə.ɡræm/ 图解
 
@@ -469,8 +409,6 @@
 
    diagram : [dia-=through, across穿过；gram=thing written, or figure书写的东西,图形→“figure made of lines going across it由穿行其间的线条构成的图形”→].词源同telegram.用来指图表，后引申为图解。
 
-
-
  **Fruitful** /ˈfruːt.fəl/ 有成果的
 
 1. 助记,
@@ -490,8 +428,7 @@
 
    fruitful : 来自fruit, 硕果累累，有成效的。
 
-
-###  4: Case Study:Interface Design
+**4:Case Study:Interface Design**
 
 ```
 4:Case Study:Interface Design= ['Interface','Encapsulate','Generalize']
@@ -516,8 +453,6 @@
 
    interface : inter-,在内，在中间，相互，face,脸。比喻用法【计算机】联系；接合。
 
-
-
 **Encapsulate** /ɪnˈkæp.sjə.leɪt/ 装入胶囊（套入）
 
 1. 助记,
@@ -539,8 +474,6 @@
 
    encapsulate : en-,进入，使，capsule,胶囊。 
 
-
-
  **Generalize** /ˈdʒen.ər.əl.aɪz/ 通用化
 
 1. 助记,
@@ -561,4 +494,3 @@
 4. 拓展
 
    generalize : 来自general,通用的，概括的。从…概括出一般规律，从…引出一般性结论，归纳出，概括出，推断出。
-
