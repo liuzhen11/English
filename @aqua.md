@@ -1,6 +1,8 @@
-## 2018-03-06
+# Think Python
 
-##  Think Python
+
+
+## Index and Content
 
 ```python
       brief =['Preface',
@@ -37,15 +39,56 @@
                'Debugging',
                'Glossary',
                'Exercises']
+                
+          2:Variable,Expressions and Statements=
+              ['Assignment Statements',
+               'Variable Names',
+               'Expressions and Statements',
+               'Script Mode',
+               'Order of Operations',
+               'String Operations',
+               'Comments',
+               'Debugging',
+               'Glossary'
+               'Exercises']
+                
+          3:Functions=
+              ['Function Calls',
+               'Math Functions',
+               'Composition',
+               'Adding New Functions',
+               'Definitions and Uses',
+               'Flow of Execution',
+               'Parameters and Arguments',
+               'Variables and Parameters Are Local',
+               'Stack Diagrams',
+               'Fruitful Functions and Void Functions'
+               'Why functions?'
+               'Debugging'
+               'Glossary'
+               'Exercises']
+                
+           4:Case Study:Interface Design=
+              ['The turtle Module',
+               'Simple Repetition',
+               'Exercises',
+               'Encapsulation',
+               'Generalization',
+               'Interface Design',
+               'Refactoring',
+               'A Development Plan',
+               'docstring',
+               'Debugging'
+               'Glossary'
+               'Exercises']
+                
        
 ```
 
-###  
-
-**1:The Way of the Program**
+### 1: The Way of the Program
 
 ```python
-1:The Way of the Program = ['Program','Python' ]
+1:The Way of the Program = ['Program','Python','Arithmetic','Debug','Glossary']
 ```
 
 **Program** /ˈproʊ.ɡræm/ 程序
@@ -62,7 +105,7 @@
    1630s, "public notice," from Late Latin programma "proclamation, edict," from Greek programma "a written public notice," from stem of prographein "to write publicly," **from pro "forth" (see [pro-](https://www.etymonline.com/word/pro-?ref=etymonline_crossreference)) +graphein "to write" (see [-graphy](https://www.etymonline.com/word/-graphy?ref=etymonline_crossreference)).**
 
 3. 释义,
-   程序  to write a series of instructions that make a computer perform a particularoperation
+    程序  to write a series of instructions that make a computer perform a particularoperation
 
 4. 拓展
 
@@ -92,225 +135,430 @@
 
 
 
-## 2018-02-28
 
-## Github 'Hello World' Guide
+**2018.03.07**
 
-[Hello World · GitHub Guides](https://guides.github.com/activities/hello-world/)
-
-```python
-brief =['Preface',
-        'What is GitHub',
-        'Step 1.Create a Repository',
-        'Step 2.Create a Branch',
-        'Step 3.Make and commit changes',
-        'Step 4.Open a Pull Request',
-        'Step 5.Merge your Pull Request']
-```
-
-### Preface
-
-```python
-Preface = ['project', 'repository', 'commit']
-```
-
-**Project****  /ˈprɒdʒ.ekt/ 项目
+**Arithmetic** /əˈrɪθ.mə.tɪk/ 算术
 
 1. 助记,
-   Pro + ject
+   Arith+m+etic
 
 2. 词源,
    **OED Origin**
-   Late Middle English (in the sense ‘preliminary design, tabulated statement’): from Latin projectum    ‘something prominent’, neuter past participle of proicere ‘throw forth’, **from pro- ‘forth’ + jacere ‘to throw**’. Early senses of the verb were ‘plan’ and ‘cause to move forward’.
-   **Etymology**
-   preface (n.)c. 1400, "a plan, draft, scheme," from Latin proiectum "something thrown forth," noun use of neuter ofproiectus, past participle of proicere "stretch out, throw forth," **from pro- "forward"** (see [pro-](https://www.etymonline.com/word/pro-?ref=etymonline_crossreference)) + combining form of iacere (past participle iactus) "to throw" (from PIE root [*ye-](https://www.etymonline.com/word/*ye-?ref=etymonline_crossreference) "to throw, impel").
 
-   Meaning "scheme, proposal, mental plan" is from c. 1600. Meaning "group of low-rent apartment buildings" first recorded 1935, American English, short for housing project (1932). Related: Projects.Project manager attested from 1913.
+   Middle English: from Old French arismetique, based on Latin arithmetica, from Greek arithmētikē (tekhnē) ‘(art) of counting’, from arithmos ‘number’.
+
+   **Etymology**
+
+   "art of computation, the most elementary branch of mathematics," mid-13c., arsmetike, from Old French arsmetique (12c.), from Latin arithmetica, from Greek arithmetike (tekhne) "(the) counting (art)," fem. of arithmetikos "of or for reckoning, arithmetical," **from arithmos "number, counting, amount,"** from PIE *erei-dhmo-, suffixed variant form of root [*re-](https://www.etymonline.com/word/*re-?ref=etymonline_crossreference) "to reason, count."
 
 3. 释义,
-    项目；方案  a piece of planned work or an activity that is finished over a period of timeand intended to achieve a particular purpose
+   算术 the part of mathematics that involves the adding and multiplying, etc. of numbers
 
 4. 拓展
 
-   project : 来自pro-,向前，朝向，-ject,投掷，扔，词源同abject,conjecture.引申诸相词义。
-   [advanced project]()已提出的计划远景规划尖端研究计划
-   [project oneself]()突出自己；表现自己；使自己显得像…设想自己处身于(into)
-   [project something onto someone]()以己之心度人之腹；设想某人怀有和自己一样的感情(或想法)
-   Project 21  21世纪规划
+   arithmetic : arith-,计算，词源同read,reason-m,插入鼻音字母。希腊语里arithmos表示数字、总数，-etic后缀表pertaining to，arithmetic的字面意思是“(the) counting (art)”。这个单词与read、riddle谜语、rate比率；认为、ration配给；口粮和reason理由；推论等同源，但希腊人不习惯用字母r开头，所以......前边多了个a-。
 
 
-**Repository** /rɪˈpɑː.zɪ.tɔːr.i/ 仓库；贮藏室
+
+**Debug** /ˌdiːˈbʌɡ/  排除错误
 
 1. 助记,
-   Re + posit+ory
+   De+bug
 
 2. 词源,
    **OED Origin**
-   Late 15th century: from Old French repositoire or Latin repositorium, **from reposit- ‘placed back’,** from the verb reponere (see repose).
 
    **Etymology**
-   late 15c., "vessel, etc., for storage," Middle French repositoire or directly **from Late Latin repositorium"store,"** in classical Latin, "a stand on which food is placed," from noun use of repositus, past participle of reponere "put away, store" (see [repose](https://www.etymonline.com/word/repose?ref=etymonline_crossreference) (v.2)). Figurative use is recorded from 1640s.Projects.Project manager attested from 1913.
+
+   1945, of machine systems, **from [de-](https://www.etymonline.com/word/de-?ref=etymonline_crossreference) + [bug](https://www.etymonline.com/word/bug?ref=etymonline_crossreference) (n.)** "glitch, defect in a machine." Meaning "to remove a concealed microphone" is from 1964. Related: Debugged; debugging.
 
 3. 释义,
-    仓库；贮藏室；存放处  a place where things are stored and can be found
+   排除错误 to remove bugs (= mistakes) from a computer program
 
 4. 拓展
 
-   repository : re-,向后，往回，-posit,放置，词源同position,composite.引申词义仓库。其他主要词义还有智囊人物；**知识库**
-   ​
+   debug : de-,不，非，使相反，bug,故障。(尤指计算机程序的)排错器，消除误差。
 
-**Commit** /kəˈmɪt/  记录
+
+
+**Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
 1. 助记,
-   Com + mit
+   Glossa+ary
 
 2. 词源,
    **OED Origin**
-   Late Middle English: from Latin committere **‘join, entrust**’ (in medieval Latin ‘put into custody’), **from com- ‘with’ + mittere ‘put or send’.**
+
+   Late Middle English: from Latin glossarium, **from glossa (see gloss)**.
 
    **Etymology**
-   late 14c., "to give in charge, entrust," from Latin committere "to unite, connect, combine; to bring together," **from com "with, together" (see [com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)) + mittere "to release**, let go; send, throw" (see[mission](https://www.etymonline.com/word/mission?ref=etymonline_crossreference)).
+
+   "collected explanations of words (especially those not in ordinary use), a book of glosses," mid-14c., from Latin glossarium "collection of glosses," from Greek glossarion, diminutive of glossa "obsolete or foreign word" (see [gloss](https://www.etymonline.com/word/gloss?ref=etymonline_crossreference) (n.2)). Related: Glossarial.
 
 3. 释义,
-   1）记录 to write something down
-   2）承诺；保证 to promise or give your loyalty, time, or money to a particular principle,person, or plan of action
-
+   术语表 an alphabetical list, with meanings, of the words or phrases in a text that aredifficult to understand
 
 4. 拓展
-   commit : com-,表强调,或共同，-mit,派遣，过去分词-miss,词源同mission.该词在使用过程中，扩展了诸多词义。其他词义主要有委托；委任；付诸；藏于；监禁；.把…关进(精神病院)；使承担义务；使做出保证；许诺；调拨，调配；提高；做出书面保证[；]()埋葬(或火葬、水葬).
 
-### what is GitHub?
-
-```python
-'what is GitHub?' = ['platform', 'version', 'collaboration','tutorial', 'essential', 'workflow']
-```
-
-
-
-**Platform** /ˈplæt.fɔːrm/ 平台
-
-1. 助记,
-   Plat + form
-
-2. 词源,
-   **OED Origin**
-   Mid 16th century: **from French plateforme ‘ground plan**’, literally ‘flat shape’.
-
-   **Etymology**
-   1540s, "plan of action, scheme, design," from Middle French plateforme, platte fourme, literally "flat form," **from Old French plat "flat" (see [plateau](https://www.etymonline.com/word/plateau?ref=etymonline_crossreference) (n.)) + forme "form" (see [form](https://www.etymonline.com/word/form?ref=etymonline_crossreference) (n.)).** The literal sense of "raised, level surface" in English is first recorded 1550s. Political meaning, "statement of party policies," is from 1803, probably originally an image of a literal platform on which politicians gather, stand, and make their appeals, and perhaps influenced by earlier sense of "set of rules governing church doctrine" (first attested 1570s). Railroad station sense is from 1838.
-
-3. 释义,
-   平台 a flat raised area or structure
-
-4. 拓展
-   platform : 来自古法语plat,平的，form,形成。引申词义平台，月台。
+   glossary : 来自拉丁语glossa,舌头，外来词，注释，-ary,集合名词后缀。 进而指“语言”、指“词汇”、指“词义解释”。Glossary就是“词义解释汇集”。
 
    ​
 
-**Version**  /ˈvɝː.ʒən/  版本
+
+### 2: Variables,Expressions and Statements
+
+```
+2:Variables,Expressions and Statements = ['Variable','Assignment','Script']
+```
+
+**Variable** /ˈver.i.ə.bəl/ 多变的
 
 1. 助记,
-   versus,turn,toward
+   Vari+able
 
 2. 词源,
    **OED Origin**
-   Late Middle English (in the sense ‘translation’): from French, or from medieval Latin versio(n-), **from Latin vertere ‘to turn’.**
+
+   Late Middle English: via Old French from Latin variabilis, from variare (see vary).
 
    **Etymology**
-   1580s, "a translation," from Middle French version, from Medieval Latin versionem (nominativeversio) "a turning, a translation," from past participle stem of Latin vertere "to turn, turn back, be turned; convert, transform, translate; be changed" (from PIE root [*wer-](https://www.etymonline.com/word/*wer-?ref=etymonline_crossreference) (2) "to turn, bend"). Also with a Middle English sense of "destruction;" the meaning "particular form of a description" is first attested 1788.
+
+   late 14c., of persons, "apt to change, fickle," from Old French variable "various, changeable, fickle," from Late Latin variabilis "changeable," **from variare "to change" (see [vary](https://www.etymonline.com/word/vary?ref=etymonline_crossreference)).** Of weather, seasons, etc., attested from late 15c.; of stars, from 1788.
 
 3. 释义,
-   版本 a particular form of something that is slightly different from other forms of the same thing
-
-4. 拓展
-    ersion : 来自拉丁语versus,转，翻转，词源versus,toward.引申词义版本。
-    形近字： vision 视觉 
-
-
-
-**Collaboration** /kəˌlæb.əˈreɪ.ʃən/ 协作
-
-1. 助记,
-   Col+labor+ation
-
-2. 词源,
-   **OED Origin**
-   Mid 19th century: from Latin collaboratio(n-), from collaborare ‘work together’.
-
-   **Etymology**
-   1860, "act of working together, united labor" (especially in literature or scientific study), from Frenchcollaboration, noun of action from Latin collaborare "work with," **from assimilated form of com "with" (see [com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)) + laborare "to work" (see [labor](https://www.etymonline.com/word/labor?ref=etymonline_crossreference) (v.)).**
-
-   In a bad sense, "traitorous cooperation with an occupying enemy," it is recorded from 1940; earliest references are to the Vichy Government of France. Collaborationist was used disparagingly in socialist jargon from 1922.
-
-3. 释义,
-   协作 the situation of two or more people working together to create orachieve the same thing
-
-4. 拓展
-   collaboration:(col+labor劳动+ation→共同劳动)
-   laboratory（实验室）：中世纪炼丹术士的炼丹场所。英语单词laboratory（实验室）来自中世纪拉丁文laboratorium，labor表示“劳作”，laboratorium意思就是“劳作的地方”，所以laboratory的本意也是“劳作的地方”。为什么是“劳作的地方”呢？这是因为最初的实验室其实就是炼金术士炼金的场所。炼金是件费时费力的活，需要炼金术士动手劳作，所以其场所就被称为laboratory。即使到了现代，实验室依然是科研人员动手劳作的场所，而不是空谈或冥思的场所。
-
-
-
-**Tutorial** /tuːˈtɔːr.i.əl/ 指导
-
-1. 助记,
-   Tutor+al
-
-2. 词源,
-   **OED Origin**
-   Early 18th century: from Latin tutorius (see tutor) + -al.
-
-   **Etymology**
-   1742, from [tutor](https://www.etymonline.com/word/tutor?ref=etymonline_crossreference) (n.) + [-al](https://www.etymonline.com/word/-al?ref=etymonline_crossreference) (1). As a noun, attested from 1923.
-
-3. 释义,
-   指导 a period of study with a tutor involving one student or a small group
+   多变的 likely to change often
 
 4. 拓展
 
-   tutorial : 来自tutor,导师，教师，-ial,形容词后缀。学习指南,【计算机】教导。
+   variable : 来自vary,改变，多变。通常与介词 from 连用，表示“不同于，有别于”，为正式用语，但也可以使用different to (或than)。
 
 
 
-**Essential** /ɪˈsen.ʃəl/ 要素
+**Assignment** /əˈsaɪn.mənt/ 任务
 
 1. 助记,
-   Essence+ial
+   Assign+ment
 
 2. 词源,
    **OED Origin**
-   Middle English (in the sense ‘in the highest degree’): from late Latin essentialis, from Latin essentia (see essence).
+
+   Late Middle English: from Old French assignement, from medieval Latin assignamentum, from Latin assignare ‘allot’ (see assign).
 
    **Etymology**
-   mid-14c., "that is such by its essence," from Late Latin essentialis, from essentia "being, essence," abstract noun formed (to translate Greek ousia "being, essence") from essent-, present participle stem of esse "to be," from PIE root [*es-](https://www.etymonline.com/word/*es-?ref=etymonline_crossreference) "to be." Meaning "pertaining to essence" is from late 14c., that of "constituting the essence of something" is from 1540s; that of "necessary" is from 1520s. Essentials"indispensable elements" is from early 16c. Related: Essentially.
+
+   late 14c., "an order, request, directive," from Old French assignement "(legal) assignment (of dower, etc.)," from Late Latin assignamentum, noun of action **from Latin assignare/adsignare "to allot, assign, award" (see [assign](https://www.etymonline.com/word/assign?ref=etymonline_crossreference)).** Meaning "appointment to office" is mid-15c.; that of "a task assigned (to someone), commission" is by 1848.
 
 3. 释义,
-   要素 necessary or needed，a basic thing that you cannot live without
+   任务 a piece of work given to someone, typically as part of their studies or job
 
 4. 拓展
-   essential : 来自essence,本质。
-   quintessence（精华）：被视为万物精华的“第五物质”
-   古代希腊哲学家认为世间除了常见的水、火、土、气等四种物质外，还存在第五种物质。这种物质是万物之精华，构成了天体，并弥漫在所有其他物质中。亚里斯多德将这种物质命名为“以太”（ether）。拉丁语将这种物质称为quinta essentia（第五物质）。该词经由法语进入英语后，拼写改为quintessence。中世纪的炼金术士致力于提炼这种物质，认为它能治百病，并且具有长生不老的功效。现在，该词一般用来比喻“精华、精髓、典范”。
+
+   略
 
 
 
-**Workflow** /ˈwɝːk.floʊ/ 工作流
+**Script** /skrɪpt/ 手稿
 
 1. 助记,
-   Work+flow
+   Scri(be)+pt
 
 2. 词源,
    **OED Origin**
-    None
+
+   Late Middle English (in the sense ‘something written’): shortening of Old French escript, from Latin scriptum, neuter past participle (used as a noun) of scribere ‘write’.
+
    **Etymology**
 
-   1949, from [work](https://www.etymonline.com/word/work?ref=etymonline_crossreference) (n.) + [flow](https://www.etymonline.com/word/flow?ref=etymonline_crossreference) (n.).
+   late 14c., "something written," earlier scrite (c. 1300), **from Old French escrit "piece of writing, written paper;** credit note, IOU; deed, bond" (Modern French écrit) from Latin scriptum "a writing, book; law; line, mark," noun use of neuter past participle of scribere "to write," from PIE root [*skribh-](https://www.etymonline.com/word/*skribh-?ref=etymonline_crossreference) "to cut, separate, sift." The original notion is of carving marks in stone, wood, etc.
 
 3. 释义,
-   工作流 the way that a particular type of work is organized, or the order of the stages in aparticular work process
+   手稿 the words of a film, play, broadcast, or speech:
 
-4. 拓展 略
+4. 拓展
+
+   script : 来自scribe,写，-pt,过去分词格。词性由形容词作名词使用，引申诸相关词义。古代，在墨水发明之前，人们都是用铭刻的方式来写字的，即用尖刻之物在竹简、木板、泥版、蜡板等书写材料上刻画。所以在英语单词中，表示“写”的单词scribe及由此衍生的词根scribe-还含有“刻”的含义。如inscribe，既表示“题写”，也表示“铭记”。英语单词scribe来自拉丁语scribere，本意是“刻”。与它同源的单词有：script（脚本）、prescribe（开处方）、describe（描述）、manuscript（手稿）等。而英语中表示“写”的更常用单词write来自古日耳曼语，本意是scratch（刮擦）。
+
+   ​
+
+
+### 3: Functions
+
+```
+3:Functions = ['Function','Composition','Execution','Parameter','Argument','Diagram','Fruitful']
+```
+
+**Function** /ˈfʌŋk.ʃən/ 功能
+
+1. 助记,
+   Funct+ion
+
+2. 词源,
+   **OED Origin**
+
+   Mid 16th century: from French fonction, **from Latin functio(n-), from fungi ‘perform’.**
+
+   **Etymology**
+
+   1530s, "one's proper work or purpose; power of acting in a specific proper way," from Middle Frenchfonction (16c.) and directly from Latin functionem (nominative functio) "a performance, an execution," noun of action from funct-, past participle stem of fungi "perform, execute, discharge," from PIE *bhung- "be of use, be used" (source also of Sanskrit bhunjate "to benefit, make benefit, atone," Armenian bowcanem "to feed," Old Irish bongaid "to break, harvest"), which is perhaps related to root [*bhrug-](https://www.etymonline.com/word/*bhrug-?ref=etymonline_crossreference) "to enjoy." Meaning "official ceremony" is from 1630s, originally in church use. Use in mathematics probably was begun by Leibnitz (1692). In reference to computer operations, 1947.
+
+3. 释义,
+   功能 the natural purpose (of something) or the duty (of a person)
+
+4. 拓展
+
+   function : 来自拉丁语functio,履行，执行。
+
+   ​
+
+   **2018.03.07**
+
+
+**Composition** /ˌkɑːm.pəˈzɪʃ.ən/  构成
+
+1. 助记,
+   Com+posit+ion
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: via Old French from Latin compositio(n-), **from componere ‘put together’**.
+
+   **Etymology**
+
+   late 14c., "a carrying out, a putting into effect; enforcement; performance (of a law, statute, etc.), the carrying out (of a plan, etc.)," from Anglo-French execucioun (late 13c.), Old French execucion "a carrying out" (of an order, etc.), from Latin executionem (nominative executio) "an accomplishing," noun of action from past participle stem of exequi/exsequi "to follow out" (see [execute](https://www.etymonline.com/word/execute?ref=etymonline_crossreference)).
+
+3. 释义,
+   构思、构成 the way that people or things are arranged in a painting or photograph
+
+4. 拓展
+
+   composition:com一起+posit+ion→放到一起→组合→构成，文章等。
 
 
 
+ **Execution** /ˌek.səˈkjuː.ʃən/ 执行
+
+1. 助记,
+   Ex+(s)ec+ution
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: from Old French executer, from medieval Latin executare, from Latin exsequi ‘follow up, punish’, **from ex- ‘out’ + sequi ‘follow’.**
+
+   **Etymology**
+
+   late 14c., "a carrying out, a putting into effect; enforcement; performance (of a law, statute, etc.), the carrying out (of a plan, etc.)," from Anglo-French execucioun (late 13c.), Old French execucion "a carrying out" (of an order, etc.), from Latin executionem (nominative executio) "an accomplishing," noun of action **from past participle stem of exequi/exsequi "to follow out" (see [execute](https://www.etymonline.com/word/execute?ref=etymonline_crossreference)).**
+
+3. 释义,
+   执行  the act of doing or performing something, especially in a planned way
+
+4. 拓展
+
+   execution : [ex-=out出；(s)ecut=to follow跟随；-e→“to follow out of the procedure跟着程序出来”→].词根sec-指“跟随”，字母s缺失，因为它和ex-读音融合了.
+
+
+
+**Parameter** /pəˈræm.ə.t̬ɚ/ 参数
+
+1. 助记,
+   Para+meter
+
+2. 词源,
+   **OED Origin**
+
+   Mid 17th century: modern Latin, **from Greek para- ‘beside’ + metron ‘measure’.**
+
+   **Etymology**
+
+   1650s in geometry, from Modern Latin parameter (1630s), **from Greek para- "beside, subsidiary" (see [para-](https://www.etymonline.com/word/para-?ref=etymonline_crossreference) (1)) + metron "measure" (from PIE root [*me-](https://www.etymonline.com/word/*me-?ref=etymonline_crossreference) (2) "to measure").**
+
+3. 释义,
+   参数 a set of facts or a fixed limit that establishes or limits how something can or musthappen or be done
+
+4. 拓展
+
+   parameter : para-,在旁，在周围，-meter,测量，规定，词源同meter,measure.引申词义参数，规范.【数学】参(变)数；参(变)量.
+
+
+
+**Argument** /ˈɑːrɡ.jə.mənt/ 论证
+
+1. 助记,
+   Arg+ument
+
+2. 词源,
+   **OED Origin**
+
+   Middle English (in the sense ‘process of reasoning’): via Old French from Latin argumentum, **from arguere ‘make clear, prove, accuse’.**
+
+   **Etymology**
+
+   early 14c., "statements and reasoning in support of a proposition or causing belief in a doubtful matter," from Old French arguement "reasoning, opinion; accusation, charge" (13c.), from Latinargumentum "a logical argument; evidence, ground, support, proof," **from arguere "make clear, make known, prove" (see [argue](https://www.etymonline.com/word/argue?ref=etymonline_crossreference)).** Sense passed through "subject of contention" (1590s) to "a quarrel" (by 1911), a sense formerly attached to [argumentation](https://www.etymonline.com/word/argumentation?ref=etymonline_crossreference).
+
+3. 释义,
+   论证 a reason or reasons why you support or oppose an idea or suggestion, or theprocess of explaining these reasons
+
+4. 拓展
+
+   阿尔戈斯的名字在希腊语中是Argos，含义是“明亮的、发亮的”。英语词根arg-（闪亮）和单词argus（警惕的人）都来自他的名字。英国海军二战前的一艘航空母舰、美国2012年推出的一款无人驾驶侦察机都叫做Argus。阿尔戈斯是希腊神话中的百眼巨人。他有100只眼睛，分布在全身，可以观察到各个方向发生的事情，即使睡觉时也有两只眼睛睁着。据说有一次宙斯下凡勾引凡间美女伊娥，为了遮人耳目就变出一团云雾笼罩在周围。天后赫拉心生怀疑，驱散云雾，宙斯赶紧将伊娥变出一头雪白的小母牛。赫拉看穿了宙斯的诡计，假意喜欢这头牛，要求宙斯把这头牛送给自己作宠物，然后派阿尔戈斯严密监视小母牛。宙斯派自己的儿子、神使赫尔墨斯前去解救伊娥。赫尔墨斯用笛子吹出动听的音乐，还给他讲潘神追求宁芙仙女不成最后发明潘神萧的故事，引诱阿尔戈斯闭上所有眼睛入睡。赫尔墨斯趁阿尔戈斯睡着后砍下了他的头，救出了伊娥。后来赫拉将阿尔戈斯的100只眼睛转移到她最宠爱的鸟——孔雀的尾羽上。从此以后，孔雀的尾羽上长满了眼睛一样的美丽花纹。
+
+   引申：真理越辨越明。
+
+   > @豆腐块
+   >
+   > 这个分享,好惊喜.我也赶紧查了一下argus是百眼巨人,词根arg-shine(闪亮) 单词argent是闪亮的银白色. 辩论擦亮眼睛. @aqua  suffixed form of root *arg- "to shine; white," thus "silver" as "the shining or white metal."
+   >
+   > @董长青
+   >
+   > @aqua argos的故事很熟悉，未想到竟和argument有关，谢谢
+
+**Argue**
+
+1. 助记,
+
+   Argos 百眼巨人
+
+2. 词源,
+
+   **OED Origin**
+
+   Late Middle English: from Latin, from Greek Argos, the name of a watchman in Greek mythology who had a hundred eyes. After he was killed by Hermes, Hera used his eyes to decorate the peacock's tail.
+
+   **Etymology**
+
+   *argue (v.)*
+
+   c. 1300, "to make reasoned statements to prove or refute a proposition," from Old French arguer"maintain an opinion or view; harry, reproach, accuse, blame" (12c.), ultimately from Latin arguere"make clear, make known, prove, declare, demonstrate," from PIE *argu-yo-, suffixed form of root [*arg-](https://www.etymonline.com/word/*arg-?ref=etymonline_crossreference) "to shine; white." The transmission to French might be via arguere in a Medieval Latin sense of "to argue," or from Latin argutare "to prattle, prate," frequentative of arguere.De Vaan says arguere is probably "a denominative verb 'to make bright, enlighten' to an adj. *argu-'bright' as continued in argutus and outside Italic." He cites a closely similar formation in Hittite arkuuae- "to make a plea." Meaning "to oppose, dispute, contend in argument" is from late 14c. Related: Argued; arguing.
+
+3. 释义,
+
+   1) 争论；争吵；争辩 (DISAGREE)
+
+   B1 [[ I \]](https://dictionary.cambridge.org/zhs/help/codes.html) **to speak angrily to someone, telling that person that youdisagree with them**
+
+   2) verb (GIVE REASONS)
+
+   B2 [[ I or T \]](https://dictionary.cambridge.org/zhs/help/codes.html) **to give the reasons for your opinion, idea, belief, etc.**
+
+   论证；说理；辩论
+
+   ​
+
+
+
+**Diagram**/ˈdaɪ.ə.ɡræm/ 图解
+
+1. 助记,
+   Dia+gram
+
+2. 词源,
+   **OED Origin**
+
+   Early 17th century: from Latin diagramma, from Greek, from diagraphein ‘mark out by lines’, **from dia ‘through’ + graphein ‘write’.**
+
+   **Etymology**
+
+   1610s, from French diagramme, from Latin diagramma, from Greek diagramma "geometric figure, that which is marked out by lines," from diagraphein "mark out by lines, delineate," **from dia- "across, out" (see [dia-](https://www.etymonline.com/word/dia-?ref=etymonline_crossreference)) + graphein "write, mark, draw" (see [-graphy](https://www.etymonline.com/word/-graphy?ref=etymonline_crossreference)). The verb is 1840, from the noun.**
+
+3. 释义,
+   图解 a simple plan that represents a machine, system, or idea, etc., often drawn toexplain how it works
+
+4. 拓展
+
+   diagram : [dia-=through, across穿过；gram=thing written, or figure书写的东西,图形→“figure made of lines going across it由穿行其间的线条构成的图形”→].词源同telegram.用来指图表，后引申为图解。
+
+
+
+ **Fruitful** /ˈfruːt.fəl/ 有成果的
+
+1. 助记,
+   Fruit+ful
+
+2. 词源,
+   **OED Origin**
+
+   **Etymology**
+
+   c. 1300, of trees, **from [fruit](https://www.etymonline.com/word/fruit?ref=etymonline_crossreference) + [-ful](https://www.etymonline.com/word/-ful?ref=etymonline_crossreference).** Related: Fruitfully; fruitfulness. Of animals or persons from early 16c.; of immaterial things from 1530s.
+
+3. 释义,
+   有成果的 producing good results
+
+4. 拓展
+
+   fruitful : 来自fruit, 硕果累累，有成效的。
+
+
+###  4: Case Study:Interface Design
+
+```
+4:Case Study:Interface Design= ['Interface','Encapsulate','Generalize']
+```
+
+**Interface** /ˈɪn.t̬ɚ.feɪs/ 界面
+
+1. 助记,
+   Inter+face
+
+2. 词源,
+   **OED Origin**
+
+   **Etymology**
+
+   1874, "a plane surface regarded as the common boundary of two bodies," **from [inter-](https://www.etymonline.com/word/inter-?ref=etymonline_crossreference) + [face](https://www.etymonline.com/word/face?ref=etymonline_crossreference) (n.).** Modern use is perhaps a c. 1960 re-coinage; McLuhan used it in the sense "place of interaction between two systems" (1962) and the computer sense "apparatus to connect two devices" is from 1964. As a verb from 1967. Related: Interfaced; interfacing.
+
+3. 释义,
+   接口、界面 a connection between two pieces of electronic equipment, or between a personand a computer
+
+4. 拓展
+
+   interface : inter-,在内，在中间，相互，face,脸。比喻用法【计算机】联系；接合。
+
+
+
+**Encapsulate** /ɪnˈkæp.sjə.leɪt/ 装入胶囊（套入）
+
+1. 助记,
+   En+Capsul(e)+ate
+
+2. 词源,
+   **OED Origin**
+
+   Late 19th century (also as incapsulate): **from en-, in- ‘into’ + Latin capsula (see capsule).**
+
+   **Etymology**
+
+   1842 (implied in encapsulated), "enclose in a capsule," **from [en-](https://www.etymonline.com/word/en-?ref=etymonline_crossreference) (1) "make, put in" + [capsule](https://www.etymonline.com/word/capsule?ref=etymonline_crossreference) + [-ate](https://www.etymonline.com/word/-ate?ref=etymonline_crossreference)(2). Figurative use by 1939. Related: Encapsulating.**
+
+3. 释义,
+   套入to express or show the most important facts about something
+
+4. 拓展
+
+   encapsulate : en-,进入，使，capsule,胶囊。 
+
+
+
+ **Generalize** /ˈdʒen.ər.əl.aɪz/ 通用化
+
+1. 助记,
+   General+ize
+
+2. 词源,
+   **OED Origin**
+
+   Middle English (in the sense ‘reduce to a general statement’): **from general + -ize.**
+
+   **Etymology**
+
+   1751, probably a new formation **from [general](https://www.etymonline.com/word/general?ref=etymonline_crossreference) (adj.) + [-ize](https://www.etymonline.com/word/-ize?ref=etymonline_crossreference).** Middle English had generalisen (early 15c.). Related: Generalizable; generalized; generalizing.
+
+3. 释义,
+   通用化 to say or write that something is true all of the time, when it is only true some of the time
+
+4. 拓展
+
+   generalize : 来自general,通用的，概括的。从…概括出一般规律，从…引出一般性结论，归纳出，概括出，推断出。
 
