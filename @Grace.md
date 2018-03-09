@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @Grace
 
 2018-03-09
@@ -7,11 +6,17 @@ Approach** UK /əˈprəʊtʃ/ US /əˈproʊtʃ/
 
 1. 助记,
 
-   1)ap-(前缀，"向，往"的意思，  from PIE root [*ad-](https://www.etymonline.com/word/*ad-?ref=etymonline_crossreference) "to, near, at.")+proach(来自拉丁语propiare，"come nearer"；其中PIE *pro "before," from root ’per‘ "forward," hence "in front of, toward, near"，有“向前”的意思)
+   1)ap-(前缀，"向，往"的意思，  from PIE root [*ad-](https://www.etymonline.com/word/*ad-?ref=etymonline_crossreference) "to, near, at.")+proach(来自拉丁语propiare，"come nearer"；其中PIE *pro "before," from root ’per‘ "forward," hence "in front of, toward, near"，**有“向前”的意思)**
 
    approach 词源同approximate，接近，大约，可追溯到拉丁词prope，“near”，并基于其比较级 propius 【nearer】得到的。由此得到了后期拉丁动词 appropiāre 【go nearer to】， 传入古法语 aprochier，再传入英语。
 
-   2)或直接看成是ap+roach，‘ap’加强+’reach‘到达，从而为“接近”之意。
+   **2)或直接看成是ap+roach，‘ap’加强+’reach‘到达，从而为“接近”之意。**
+
+   > @doufukuai, ap (to)+ roach开脑洞, reach除了有达到的含义,还有stretch out to get 伸手去拿的意思,
+   >
+   > 也是接近的意思.
+   >
+   > 从拼写和读音上,Pro(向前的意思)似乎更好,approach,重音发在Pro上,Pro是forward向前.
 
 2. 词源,
 
@@ -138,7 +143,7 @@ Approach** UK /əˈprəʊtʃ/ US /əˈproʊtʃ/
 
 2018-03-07
 
-**Obsolute** UK /ˈæbsəlu:t/ US /ˈæbsəˌlut/
+**Absolute** UK /ˈæbsəlu:t/ US /ˈæbsəˌlut/
 
 1. 助记,
 
@@ -191,7 +196,7 @@ Approach** UK /əˈprəʊtʃ/ US /əˈproʊtʃ/
 
 
 
-**Approach** v. /səˈspɛkt/ n. adj. /ˈsʌspɛkt/
+**Suspect** v. /səˈspɛkt/ n. adj. /ˈsʌspɛkt/
 
 1. 助记,
 
@@ -556,7 +561,3 @@ Approach** UK /əˈprəʊtʃ/ US /əˈproʊtʃ/
   resign yourself to something 听任某事
 
 
-
-
->>>>>>> 8ca4d91245ed54b31728531622a78c2d7aa3b697
-#2.3.displines/词汇#
