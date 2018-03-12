@@ -123,6 +123,36 @@ brief_detials = {
                     (5, 'Debugging'),
                     (6, 'Glossary'),
                     (7, 'Exercises')], 
+    
+'10.Lists':
+                   [(1, 'A List iS A Sequence'),
+                    (2, 'Lists Are Mutable'),
+                    (3, 'Traversing a List'),
+                    (4, 'List Operations'),
+                    (5, 'List Slices'),
+                    (6, 'List Methods'),
+                    (7, 'Map.Filter and Reduce')
+                    (8, 'Deleting Elements'),
+                    (9, 'Lists and Strings'),
+                    (10, 'Objects and Values'),
+                    (11, 'Aliasing'),
+                    (12, 'List Arguments'),
+                    (13, 'Debugging'),
+                    (14, 'Glossary')
+                    (15, 'Exercises')], 
+'11.Dictionaries':
+                   [(1, 'A Dictionary Is a Mapping'),
+                    (2, 'Dictionary as a Collection of Counters'),
+                    (3, 'Looping and Dictionaries of Counters'),
+                    (4, 'Looping and Dictionaries'),
+                    (5, 'Reverse Lookup'),
+                    (6, 'Dictionaries and Lists'),
+                    (7, 'Memos')
+                    (8, 'Global Variables'),
+                    (9, 'Debugging'),
+                    (10, 'Glossary')
+                    (11, 'Exercises')], 
+   
 } 
 
 
@@ -774,6 +804,82 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
      immutable : im-,不，非，mutable,可改变的。
 
 
+
+
+## 11.Dictionaries
+
+```python
+'11.Dictionaries'= ['Dictionary','Collection','Reverse']
+```
+
+**Dictionary** /ˈdɪk.ʃən.er.i/ 字典
+
+1. 助记,
+   Diction+ary
+
+2. 词源,
+   **OED Origin**
+
+   Early 16th century: from medieval Latin dictionarium (manuale) or dictionarius (liber) ‘manual or book of words’, from Latin dictio (see diction).
+
+   **Etymology**
+
+   1520s, from Medieval Latin dictionarium "collection of words and phrases," from Latin dictionarius "of words," **from dictio "word," noun of action from past participle stem of dicere "speak, tell, say,"** from PIE root [*deik-](https://www.etymonline.com/word/*deik-?ref=etymonline_crossreference) "to show," also "pronounce solemnly." Probably first English use in title of a book was in Sir Thomas Elyot's "Latin Dictionary" (1538) though Latin Dictionarius was so used from early 13c. Grose's 1788 "Dictionary of the Vulgar Tongue" has "RICHARD SNARY. A dictionary."
+
+3. 释义,
+   字典 a book that contains a list of words in alphabetical order and that explainstheir meanings, or gives a word for them in another language; a similar productfor use on a computer
+
+4. 拓展
+
+   dictionary : [diction n. 措词；-ary n.=thing物→“book for diction措词用书”→。一本字典，就是人们对词汇的发音、拼法、含义等所作的解释的记载，即人们是怎么“说”的。它来自拉丁语动语dico，意思是“说”、“讲”。同出于dico之源的还有不少英语词，如，ditto，意思“同上”、“同前”，即和上面所“说”的一样；contradiction（矛盾），contra是“相反”、“反对”的意思，全词的意思是“说话自相矛盾”；verdict（陪审团的裁决），vere是“真实地”，全词即“正确地评说”，dictator（独裁者），意即“我一个人说了算”。都和“说”有关。
+
+
+
+**Collection**/kəˈlek.ʃən/ 收藏
+
+1. 助记,
+
+   Collect+ion
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English: via Old French from Latin collectio(n-), **from colligere ‘gather together’ (see collect).**
+
+   **Etymology**
+
+   late 14c., "action of collecting, practice of gathering together," from Old French collection (14c.), **from Latin collectionem (nominative collectio) "a gathering together**," noun of action from past-participle stem of colligere "gather together" (see [collect](https://www.etymonline.com/word/collect?ref=etymonline_crossreference)).
+
+3. 释义,
+   收藏 a group of objects of one type that have been collected by one person or in one place
+
+4. 拓展
+
+   collection : [collect v. 收集；-ion →“the result of collecting收集的结果”→]
+
+
+
+**Reverse**/rɪˈvɝːs/ 反转
+
+1. 助记,
+
+   Re+verse
+
+2. 词源,
+   **OED Origin**
+
+   Middle English: from Old French revers, reverse (nouns), reverser (verb), from Latin reversus ‘turned back’, past participle of revertere, **from re- ‘back’ + vertere ‘to turn’.**
+
+   **Etymology**
+
+   c. 1300, from Old French revers "reverse, cross, opposite" (13c.), **from Latin reversus, past participle of revertere "turn back, turn about, come back, return" (see [revert](https://www.etymonline.com/word/revert?ref=etymonline_crossreference))**. Reverse angle in film-making is from 1934. Reverse discrimination is attested from 1962, American English.
+
+3. 释义,
+   反转 to change the direction, order, position, result, etc. of something to itsopposite
+
+4. 拓展
+
+   reverse : 来自revert,回转，-s,过去分词格。引申诸相关词义，词性也由形容词兼做名词和动词使用。
 
 
 
