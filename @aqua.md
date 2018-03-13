@@ -12,17 +12,18 @@ brief = [(0, 'Preface'),
          (8, 'String'),
          (9, 'Case Study'),
          (10, 'Lists'),
-         (11, 'Dictionaries12.Tuples'),
-         (12, 'Case Study'),
-         (13, 'Files'),
-         (14, 'Classes and Objects'),
-         (15, 'Classes and Functions'),
-         (16, 'Classes and Methods'),
-         (17, 'Inheritance'),
-         (18, 'The Goodies'),
-         (19, 'Debugging'), 
-         (20, 'Analysis of Algorithms'),
-         (21, 'Index')]
+         (11, 'Dictionaries
+         (12, 'Tuples'),
+         (13, 'Case Study'),
+         (14, 'Files'),
+         (15, 'Classes and Objects'),
+         (16, 'Classes and Functions'),
+         (17, 'Classes and Methods'),
+         (18, 'Inheritance'),
+         (19, 'The Goodies'),
+         (20, 'Debugging'), 
+         (21, 'Analysis of Algorithms'),
+         (22, 'Index')]
 
 #排版用的python代码[ i.split(':')[1] for i in brief]
 
@@ -880,6 +881,7 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 4. 拓展
 
    reverse : 来自revert,回转，-s,过去分词格。引申诸相关词义，词性也由形容词兼做名词和动词使用。
+
 
 
 

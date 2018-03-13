@@ -2,7 +2,7 @@
 
 2018-03-12
 
-Distribute** UK /[dɪˈstrɪbju:t/ US /dɪˈstrɪbjut/
+**Distribute** UK /[dɪˈstrɪbju:t/ US /dɪˈstrɪbjut/
 
 1. 助记,
 
@@ -78,7 +78,7 @@ Distribute** UK /[dɪˈstrɪbju:t/ US /dɪˈstrɪbjut/
 
 2018-03-09
 
-Approach** UK /əˈprəʊtʃ/ US /əˈproʊtʃ/
+**Approach** UK /əˈprəʊtʃ/ US /əˈproʊtʃ/
 
 1. 助记,
 
@@ -393,8 +393,6 @@ Approach** UK /əˈprəʊtʃ/ US /əˈproʊtʃ/
 
 
 
-
-=======
 @Grace
 
 2018-03-08
