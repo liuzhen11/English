@@ -1,6 +1,4 @@
-# we
-
-Think Python
+# Think Python
 
 # Table of Contents
 
@@ -27,7 +25,7 @@ brief = [(0, 'Preface'),
          (19, 'The Goodies'),
          (20, 'Debugging'), 
          (21, 'Analysis of Algorithms'),
-         (22, 'Index')]
+         (22, 'Index'),]
 
 #排版用的python代码[ i.split(':')[1] for i in brief]
 
@@ -612,8 +610,8 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
 ## 5.Conditionals and Recursion
 
-```
-5:Conditionals and Recursion= ['Recursion','Alternative']
+```python
+'5.Conditionals and Recursion' = ['Recursion','Alternative']
 ```
 
 **Recursion** /rɪˈkɝː.ʒən/ 循环
