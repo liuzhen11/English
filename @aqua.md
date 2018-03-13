@@ -1,4 +1,8 @@
-# Think Python Contents
+# we
+
+Think Python
+
+# Table of Contents
 
 ```python
 brief = [(0, 'Preface'),
