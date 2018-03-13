@@ -153,7 +153,13 @@ brief_detials = {
                     (9, 'Debugging'),
                     (10, 'Glossary')
                     (11, 'Exercises')], 
-   
+'12.Tuples':
+                   [(1, 'Tuples Are Immutable'),
+                    (2, 'Tuple Assignment'),
+                    (3, 'Tuples as Return Values'),
+                    (4, 'Variable-Length Argument Tuple'),
+                    (5, 'Lists and Tuples'),
+                    (6, 'Sequences of Sequences'),], 
 } 
 
 
