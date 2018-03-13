@@ -160,7 +160,22 @@ brief_detials = {
                     (4, 'Variable-Length Argument Tuple'),
                     (5, 'Lists and Tuples'),
                     (6, 'Sequences of Sequences'),], 
-} 
+    
+'13.Case Study:Data Structure Selection':
+                   [(1, 'Word Frequency Analysis'),
+                    (2, 'Random Numbers'),
+                    (3, 'Word Histogram'),
+                    (4, 'Most Common Words'),
+                    (5, 'Optional Parameters'),
+                    (6, 'Dictionary Subtraction'), 
+                    (7, 'Ramdom Words'),
+                    (8, 'Markov Analysis'),
+                    (9, 'Data Structures'),
+                    (10, 'Dictionary Subtraction'),
+                    (11, 'Debugging'),
+                    (12, 'Glossary')
+                    (13, 'Exercises')
+                   ]
 
 
        
@@ -891,3 +906,48 @@ Glossary** /ˈɡlɑː.sɚ.i/ 术语表
 
 
 
+**Structure** /ˈstrʌk.tʃɚ/ 结构
+
+1. 助记,
+
+   Struct+ure
+
+2. 词源,
+   **OED Origin**
+
+   Late Middle English (denoting the process of building): from Old French, or from Latin structura, **from struere ‘to build’.** The verb is rarely found before the 20th century.
+
+   **Etymology**
+
+   mid-15c., "action or process of building or construction;" 1610s, "that which is constructed, a building or edifice;" from Latin structura "a fitting together, adjustment; a building, mode of building;" figuratively, "arrangement, order," **from structus, past participle of struere "to pile, place together, heap up; build, assemble, arrange, make by joining together,"** related to strues "heap," from PIE*streu-, extended form of root [*stere-](https://www.etymonline.com/word/*stere-?ref=etymonline_crossreference) "to spread."
+
+3. 释义,
+   结构 the way in which the parts of a system or object are arranged ororganized, or a system arranged in this way
+
+4. 拓展
+
+   structure : 来自拉丁语structura,装配，建造，布置，来自struere,连接，组装，建造，堆放，来自PIE*ster,展开，延展，词源同stratum,strew,construct.引申词义结构，构造，体系等。
+
+
+
+**Frequency** /ˈfriː.kwən.si/ 频度
+
+1. 助记,
+
+   Frequen+cy
+
+2. 词源,
+   **OED Origin**
+
+   Mid 16th century (gradually superseding late Middle English frequence; originally denoting a gathering of people): from Latin frequentia, **from frequens, frequent- ‘crowded, frequent’.**
+
+   **Etymology**
+
+   1550s, "state of being crowded" (now obsolete); 1640s, "fact of occurring often;" from Latin frequentia"an assembling in great numbers, a crowding; crowd, multitude, throng," **from frequentem (see[frequent](https://www.etymonline.com/word/frequent?ref=etymonline_crossreference)).** Sense in physics, "rate of recurrence," especially of a vibration, is from 1831. In radio electronics, frequency modulation (1922, abbreviated F.M.) as a system of broadcasting is distinguished from amplitude modulation (or [A.M.](https://www.etymonline.com/word/A.M.?ref=etymonline_crossreference)).
+
+3. 释义,
+   频度 the number of times something happens within a particular period, or thefact of something happening often or a large number or times
+
+4. 拓展
+
+   frequency : 来自拉丁语frequens,反复的，拥挤的，硬塞的。可能来自PIE*ger,围，转，包围，词源同cram,crowd,group.
