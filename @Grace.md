@@ -1,5 +1,73 @@
 @Grace
 
+2018.03.13
+
+**Escape** UK /ɪˈskeɪp/ US /ɪˈskep/
+
+1. 助记,
+
+   es--+cap-(脱掉身上的斗篷得以逃脱)
+
+   **es-**：前缀，表示“从，从...离开，从...向外，向外，向上”，来自PIE*eghs,向外，‘out’。
+
+   **cape**： = head, 表示“头”，来源于拉丁语cappa ‘cloak,mantle,cloak with a hood’
+
+   escape来自拉丁语excappare，由ex（out of）和cappa（cape，斗篷）构成，字面意思就是“脱掉斗篷”。在古代欧洲的战场上，被击败的战士为了保命，往往会使出“金蝉脱壳”的招数，在被敌人抓住斗篷时脱掉斗篷而摆脱敌人，或在被敌人追赶时主动脱掉斗篷，趁敌人去捡斗篷时赶紧逃掉。因为在古代，一件斗篷算是不菲的财产，有钱人才穿得起。英语单词escape（逃脱）就跟古人脱掉斗篷保命的做法有关。
+
+2. 词源,
+
+   **OED Origin**
+
+   Middle English: from Old French eschaper, based on medieval Latin ex- ‘out’ + cappa ‘cloak’. Compare with escapade.
+
+   **Etymology**
+
+   c. 1300, transitive and intransitive, "free oneself from confinement; extricate oneself from trouble; get away safely by flight (from battle, an enemy, etc.)," from Old North French escaper, Old French eschaper (12c., Modern French échapper), from Vulgar Latin *excappare, literally "get out of one's cape, leave a pursuer with just one's cape," from Latin ex- "out of" (see [ex-](https://www.etymonline.com/word/ex-?ref=etymonline_crossreference)) + Late Latin cappa "mantle" (see [cap](https://www.etymonline.com/word/cap?ref=etymonline_crossreference) (n.)). Mid-14c., of things, "get or keep out of a person's grasp, elude (notice, perception, attention, etc.);" late 14c. as "avoid experiencing or suffering (something), avoid physical contact with; avoid (a consequence)." Related: Escaped; escaping.
+
+3. 释义,
+
+   v. 1)(从监禁或管制中)逃跑，逃走，逃出(from sb/sth)**to get away from a place where you have been kept as a prisoner or not allowed to leave**
+
+   ​    2)(从不愉快或危险处境中)逃脱，摆脱，逃避**to get away from an unpleasant or dangerous situation**
+
+   ​    3)避开，避免(不愉快或危险的事物)**to avoid sth unpleasant or dangerous**  
+
+   ​    4)(未受伤或只受了一点伤害而)逃脱，幸免于难**to suffer no harm or less harm than you would expect**
+
+   ​    5)被忘掉；被忽视；未被注意**to be forgotten or not noticed**
+
+   ​    6) (气体、液体等)漏出；泄漏；渗出**to get out of a container, especially through a hole or crack**
+
+   ​    7)(不自觉地)由…发出**to come out from your mouth without you intending it to**
+
+   n. 1)逃跑；逃脱；逃避**the act or a method of escaping from a place or an unpleasant or dangerous situation**
+
+   ​    2) 逃避现实；解脱；消遣**a way of forgetting sth unpleasant or difficult for a short time**
+
+   ​    3)漏出，逸出，渗出(量)**the fact of a liquid, gas, etc. coming out of a pipe or container by accident; the amount that comes out**
+
+   ​    4)[计]Esc键；退出键**a button on a computer keyboard that you press to stop a particular operation or leave a program**
+
+4. 相关词语和词组
+
+   **escape clause** n. (合约的)免责条款，例外条约
+
+   **escaped** adj. 逃跑了的
+
+   **escapee** n. 逃亡者；脱逃的动物；(尤指)逃犯
+
+   **escapism** n. 逃避现实；解脱方法
+
+   **escapologist** n. 脱逃术表演者(擅长表演从捆扎的绳索或箱子等中脱身的魔术演员)
+
+   **make good one's escape** 成功地逃脱
+
+   **escape death by a hairbreadth** 死里逃生，九死一生
+
+   **escape with life and limb** 未受严重伤害而逃脱，无大损伤而逃脱
+
+
+
 2018-03-12
 
 **Distribute** UK /[dɪˈstrɪbju:t/ US /dɪˈstrɪbjut/
