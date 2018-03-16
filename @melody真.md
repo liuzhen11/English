@@ -9,3 +9,5 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | winds                                                        | dragons                                                      | bamboos                                                      | characters                                                   | circles or dots                                              |
 | ![img](https://ws4.sinaimg.cn/large/006tNc79ly1fowjl1n0ftj306t01o745.jpg) | ![img](https://ws3.sinaimg.cn/large/006tNc79ly1fowjkluuzjj305001pa9v.jpg) | ![img](https://ws1.sinaimg.cn/large/006tNc79ly1fowjlaobvrj30dt01lq2y.jpg) | ![img](https://ws1.sinaimg.cn/large/006tNc79ly1fowjhhjlmej30dv01kwem.jpg) | ![img](https://ws3.sinaimg.cn/large/006tNc79ly1fowjhi2lg9j30dt01l3yn.jpg) |
+
+principles
