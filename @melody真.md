@@ -10,6 +10,83 @@
 | winds                                                        | dragons                                                      | bamboos                                                      | characters                                                   | circles or dots                                              |
 | ![img](https://ws4.sinaimg.cn/large/006tNc79ly1fowjl1n0ftj306t01o745.jpg) | ![img](https://ws3.sinaimg.cn/large/006tNc79ly1fowjkluuzjj305001pa9v.jpg) | ![img](https://ws1.sinaimg.cn/large/006tNc79ly1fowjlaobvrj30dt01lq2y.jpg) | ![img](https://ws1.sinaimg.cn/large/006tNc79ly1fowjhhjlmej30dv01kwem.jpg) | ![img](https://ws3.sinaimg.cn/large/006tNc79ly1fowjhi2lg9j30dt01l3yn.jpg) |
 
-principles原则part1
+principles原则
 
-exhibition n.展览会,展览
+Introduction
+
+blizzard n.
+
+释义:
+
+1. a severe snow storm with strong winds暴风雪；雪暴
+2. a large amount of something that arrives or is produced together in aconfusing or badly organized way大量繁乱的事（物）
+
+词源:
+
+1.选自牛津词典词源
+
+Early 19th century (originally US, denoting a violent blow): of unknown origin.
+
+2.选自etymonline
+
+"strong, sustained storm of wind and cold, and dry, driving snow," 1859, origin obscure (perhaps somehow connected with [blaze](https://www.etymonline.com/word/blaze?ref=etymonline_crossreference) (n.1), and compare [blazer](https://www.etymonline.com/word/blazer?ref=etymonline_crossreference)); it came into general use in the U.S. in this sense in the hard winter of 1880-81. OED says it probably is "more or less onomatopœic," and adds "there is nothing to indicate a French origin." Before that it typically meant "a violent blow," also "hail of gunfire" in American English from 1829, and blizz "violent rainstorm" is attested from 1770. The winter storm sense perhaps is originally a colloquial figurative use in the Upper Midwest of the U.S.
+
+holistic adj.
+
+释义:
+
+dealing with or treating the whole of something or someone and not just a part整体的，全面的
+
+例句:
+
+My [doctor](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/doctor) [takes](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/take) a holistic [approach](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/approach) to [disease](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/disease).我的医生采用了一种全面的治疗方法。
+
+Ecological [problems](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/problem) usually [require](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/require) holistic [solutions](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/solution).生态问题通常需要全面的解决方法。
+
+词源:
+
+1.选自etymonline
+
+1926, from [holism](https://www.etymonline.com/word/holism?ref=etymonline_crossreference) (q.v.) + [-istic](https://www.etymonline.com/word/-istic?ref=etymonline_crossreference). Holistic medicine is first attested 1960. Related: Holistically.
+
+summon
+
+释义:
+
+ to order someone to come to or be present at a particular place, or to officiallyarrange a meeting of people命令…到（某地）；传唤；召唤；召集
+
+例句:
+
+On 20 [July](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/july), the [town](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/town) [council](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/council) was summoned to [hear](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/hear) an [emergency](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/emergency) [report](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/report) on [its](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/its) [finances](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/finance).7月20日，理事会被临时召集起来听取有关财务问题的紧急报告。
+
+词源:
+
+1.选自牛津词典词源
+
+Middle English: from Old French somondre, from Latin summonere ‘give a hint’, later ‘call, summon’, from sub- ‘secretly’ + monere ‘warn’.
+
+2.选自etymonline
+
+c. 1200, "call, send for, ask the presence of," especially "call, cite, or notify by authority to be at a certain place at a certain time" (late 13c.), from Anglo-French sumunre and directly from Old French somonre, variant of sumundre, somondre "summon," from Vulgar Latin *summundre "to call, cite," from Latin summonere "hint to, remind privately," from assimilated form of sub "under" (see [sub-](https://www.etymonline.com/word/sub-?ref=etymonline_crossreference)) + monere "to admonish, warn, advice," from PIE *moneyo-, suffixed (causative) form of root [*men-](https://www.etymonline.com/word/*men-?ref=etymonline_crossreference) (1) "to think." In part also from Medieval Latin use of summonere. Meaning "arouse, excite to action" is from 1580s. Related: Summoned; summoning.
+
+impediment n.
+
+释义:
+
+1.A hindrance or obstruction in doing something.
+
+2.A defect in a person's speech, such as a lisp or stammer.
+
+例句:
+
+In a [number](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/number) of [developing](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/developing) [countries](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/country), [war](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/war) has been an [additional](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/additional) impediment to [progress](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/progress).在一些发展中国家，战争成了发展的另一阻碍。
+
+词源:
+
+1.选自牛津词典词源
+
+Late Middle English: from Latin impedimentum, from impedire (see impede).
+
+2.选自etymonline
+
+c. 1400, from Old French empedement or directly from Latin impedimentum "hindrance," from impedire "impede," literally "to shackle the feet," from assimilated form of in- "into, in" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in") + pes (genitive pedis) "foot," from PIE root [*ped-](https://www.etymonline.com/word/*ped-?ref=etymonline_crossreference) "foot." Related: Impedimental.
