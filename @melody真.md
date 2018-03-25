@@ -90,3 +90,79 @@ Late Middle English: from Latin impedimentum, from impedire (see impede).
 2.选自etymonline
 
 c. 1400, from Old French empedement or directly from Latin impedimentum "hindrance," from impedire "impede," literally "to shackle the feet," from assimilated form of in- "into, in" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in") + pes (genitive pedis) "foot," from PIE root [*ped-](https://www.etymonline.com/word/*ped-?ref=etymonline_crossreference) "foot." Related: Impedimental.
+
+3月25日
+
+**audacity** 
+
+释义:
+
+courage or confidence of a kind that other people find shocking or rude大胆；勇气
+
+例句: It took a lot of audacity to [stand](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/stand) up and [criticize](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/criticize) the [chairman](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/chairman).站出来批评董事长需要很大的勇气。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English: from medieval Latin audacitas, from audax, audac- ‘bold’ (see audacious).
+
+2.选自etymonline
+
+early 15c., "boldness, courage, daring; vigor, animation," from Medieval Latin audacitas "boldness," from Latin audacis genitive of audax "bold, daring; rash, foolhardy" (see [audacious](https://www.etymonline.com/word/audacious?ref=etymonline_crossreference)). In English, the meaning "presumptuous impudence," implying contempt of moral restraint, is from 1530s.
+
+**algorithm**
+
+释义:
+
+a set of mathematical instructions or rules that, especially if given to a computer, will help to calculate an answer to a problem（尤指计算机使用的）算法，计算程序
+
+词源:
+
+1.选自牛津词源词典
+
+Late 17th century (denoting the Arabic or decimal notation of numbers): variant (influenced by Greek arithmos ‘number’) of Middle English algorism, via Old French from medieval Latin algorismus. The Arabic source, al-Ḵwārizmī ‘the man of Ḵwārizm’ (now Khiva), was a name given to the 9th-century mathematician Abū Ja‘far Muhammad ibn Mūsa, author of widely translated works on algebra and arithmetic.
+
+2.选自etymonline
+
+1690s, "Arabic system of computation," from French algorithme, refashioned (under mistaken connection with Greek arithmos "number") from Old French algorisme "the Arabic numeral system" (13c.), from Medieval Latin algorismus, a mangled transliteration of Arabic al-Khwarizmi "native of Khwarazm" (modern Khiva in Uzbekistan), surname of the mathematician whose works introduced sophisticated mathematics to the West (see [algebra](https://www.etymonline.com/word/algebra?ref=etymonline_crossreference)). The earlier form in Middle English was algorism (early 13c.), from Old French. Meaning broadened to any method of computation; from mid-20c. especially with reference to computing.
+
+**perch**
+
+释义:
+
+to sit on or near the edge of something坐在…（的边缘）上；栖息于；停留于
+
+例句:
+
+We perched on [bar](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/bar) [stools](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/stool) and had a [beer](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/beer).我们坐在酒吧高凳上，喝了一杯啤酒。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English: the noun from perch; the verb from Old French percher.
+
+2.选自etymonline
+
+"to roost," late 14c., from Old French perchier "to sit on a perch" (of a bird), from perche (n.) (see [perch](https://www.etymonline.com/word/perch?ref=etymonline_crossreference) (n.1)). Related: Perched; perching.
+
+**distort**
+
+释义:
+
+to change something from its usual, original, natural, or intended meaning,condition, or shape扭曲；使变形；歪曲
+
+例句:
+
+My [original](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/original) [statement](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/statement) has been [completely](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/completely) distorted by the [media](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/media).我最初的说法被媒体彻底歪曲了。
+
+词源:
+
+1.选自牛津词源词典
+
+Late 15th century (in the sense ‘twist to one side’): from Latin distort- ‘twisted apart’, from the verb distorquere, from dis- ‘apart’ + torquere ‘to twist’.
+
+2.选自etymonline
+
+1580s, from Latin distortus, past participle of distorquere "to twist different ways, distort," from dis- "completely" + torquere "to twist" (from PIE root [*terkw-](https://www.etymonline.com/word/*terkw-?ref=etymonline_crossreference) "to twist"). Related: Distorted; distorting.
