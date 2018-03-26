@@ -166,3 +166,64 @@ Late 15th century (in the sense ‘twist to one side’): from Latin distort- �
 2.选自etymonline
 
 1580s, from Latin distortus, past participle of distorquere "to twist different ways, distort," from dis- "completely" + torquere "to twist" (from PIE root [*terkw-](https://www.etymonline.com/word/*terkw-?ref=etymonline_crossreference) "to twist"). Related: Distorted; distorting.
+
+
+
+3月26日
+
+**coalesce**
+
+释义:
+
+**If two or more things coalesce, they come or grow together to form one thing orsystem.**
+
+联合，合并
+
+词源:
+
+1.选自牛津词源词典
+
+Mid 16th century: from Latin coalescere ‘grow together’, from co- (from cum ‘with’) + alescere ‘grow up’ (from alere ‘nourish’).
+
+2.选自etymonline
+
+formerly also empeach, late 14c., "to impede, hinder, prevent," from Anglo-French empecher, Old French empeechier "to hinder, stop, impede; capture, trap, ensnare" (12c., Modern French empêcher), from Late Latin impedicare "to fetter, catch, entangle," from assimilated form of in- "into, in" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in") + Latin pedica "a shackle, fetter," from pes (genitive pedis) "foot" (from PIE root [*ped-](https://www.etymonline.com/word/*ped-?ref=etymonline_crossreference) "foot"). Sense of "accuse a public officer of misconduct" first recorded 1560s, perhaps via Medieval Latin confusion of the word with Latin impetere "attack, accuse" (see [impetus](https://www.etymonline.com/word/impetus?ref=etymonline_crossreference)). Related: Impeached; impeaching.
+
+**meritocracy**
+
+释义:
+
+**a social system, society, or organization in which people have power because oftheir abilities, not because of their money or social position**
+
+精英领导体制；精英管理的社会
+
+例句:
+
+The [company](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/company) is a meritocracy. Good [work](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/work) is [rewarded](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/reward) with [promotions](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/promotion).这家公司施行精英管理，干得好就会被晋升。
+
+词源:
+
+选自etymonline
+
+coined 1958 by British sociologist Michael Young (1915-2002) and used in title of his book, "The Rise of the Meritocracy"; from [merit](https://www.etymonline.com/word/merit?ref=etymonline_crossreference) (n.) + [-cracy](https://www.etymonline.com/word/-cracy?ref=etymonline_crossreference). Related: Meritocratic.
+
+**granular**
+
+释义:
+
+**made of, or seeming like, granules**由颗粒构成的；颗粒状的
+
+例句:
+
+a granular [texture](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/texture)粒状结构
+
+词源:
+
+1.选自牛津词源词典
+
+Late 18th century: from late Latin granulum (see granule) + -ar.
+
+2.选自etymonline
+
+1790, from Late Latin granulum "granule, a little grain," diminutive of Latin granum "grain, seed" (from PIE root [*gre-no-](https://www.etymonline.com/word/*gre-no-?ref=etymonline_crossreference) "grain") + [-ar](https://www.etymonline.com/word/-ar?ref=etymonline_crossreference). Replaced granulous (late 14c.). Related: Granularity.
+
