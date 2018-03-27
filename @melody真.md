@@ -227,3 +227,126 @@ Late 18th century: from late Latin granulum (see granule) + -ar.
 
 1790, from Late Latin granulum "granule, a little grain," diminutive of Latin granum "grain, seed" (from PIE root [*gre-no-](https://www.etymonline.com/word/*gre-no-?ref=etymonline_crossreference) "grain") + [-ar](https://www.etymonline.com/word/-ar?ref=etymonline_crossreference). Replaced granulous (late 14c.). Related: Granularity.
 
+3月27日
+
+**abyss**
+
+释义:
+
+ 1.a very deep hole that seems to have no bottom深渊
+
+2.a difficult situation that brings trouble or destruction困境；险境；绝境
+
+例句:
+
+She [found](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/found) herself on the [edge](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/edge) of an abyss.她发现自己岌岌可危。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English (in the sense ‘infernal pit’): via late Latin from Greek abussos ‘bottomless’, from a- ‘without’ + bussos ‘depth’.
+
+2.选自etymonline
+
+late 14c. in Latin form abyssus, "depths of the earth or sea; primordial chaos;" early 14c. as abime "depths of the earth or sea; bottomless pit, Hell" (from Old French; see [abysm](https://www.etymonline.com/word/abysm?ref=etymonline_crossreference)). Both are from Late Latin abyssus "bottomless pit," from Greek abyssos (limne) "bottomless (pool)," from abyssos "bottomless, unfathomed," hence, generally, "enormous, unfathomable," also as a noun, he abyssos "the great depth, the underworld, the bottomless pit." This is a compound of a- "without" (see [a-](https://www.etymonline.com/word/a-?ref=etymonline_crossreference) (3)) + byssos "bottom," a word of uncertain origin possibly related to bathos "depth" [Liddell & Scott]. Watkins suggests a connection with the root of bottom (n.); Beekes suggests it is pre-Greek.
+
+The current form in English is a 16c. partial re-Latinization. Greek abyssos was used in Septuagint to translate Hebrew tehom "original chaos" and was used in the New Testament for "Hell." OED notes, "the word has had five variants, abime, abysm, abysmus, abyssus, abyss; of which abyss remains as the ordinary form, and abysm as archaic or poetic." In reference to a seemingly bottomless gulf from 1630s.
+
+
+
+**threshold**
+
+释义:
+
+1. the floor of an entrance to a building or room门槛
+2.  the level or point at which you start to experience something, or at which something starts to happen*阈，界限；起点
+
+例句:
+
+His [secretary](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/secretary) [earns](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/earn) £268 a [month](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/month), well below the threshold for [paying](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/pay) [tax](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/tax).他的秘书每月挣268英镑，远远不够纳税的标准。
+
+词源:
+
+1.选自牛津词源词典
+
+Old English therscold, threscold; related to German dialect Drischaufel; the first element is related to thresh (in a Germanic sense ‘tread’), but the origin of the second element is unknown.
+
+2.选自etymonline
+
+Old English þrescold, þærscwold, þerxold, etc., "door-sill, point of entering," of uncertain origin and probably much altered by folk-etymology. The first element probably is related to Old English þrescan (see [thresh](https://www.etymonline.com/word/thresh?ref=etymonline_crossreference)), either in its current sense of "thresh" or with its original sense of "tread, trample." Second element has been much transformed in all the Germanic languages, suggesting its literal sense was lost even in ancient times. In English it probably has been altered to conform to [hold](https://www.etymonline.com/word/hold?ref=etymonline_crossreference). Liberman (Oxford University Press blog, Feb. 11, 2015) revives an old theory that the second element is the Proto-Germanic instrumental suffix *-thlo and the original sense of threshold was a threshing area adjacent to the living area of a house. Cognates include Old Norse þreskjoldr, Swedish tröskel, Old High German driscufli, German dialectal drischaufel. Figurative use was in Old English.
+
+
+
+**boon**
+
+释义:
+
+something that is very helpful and improves the quality of life提高生活质量的东西；有用之物
+
+例句:
+
+[Guide](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/guide) [dogs](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/dog) are a [great](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/great) boon to the [partially](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/partially) [sighted](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sighted).导盲犬对视力有障碍的人来说是非常有用的。
+
+词源:
+
+1.选自牛津词源词典
+
+Middle English (originally in the sense ‘request for a favour’): from Old Norse bón.
+
+2.选自etymonline
+
+late 12c., bone "a petition, a prayer," from Old Norse bon "a petition, prayer," from Proto-Germanic *boniz (source also of Old English ben "prayer, petition," bannan "to summon;" see [ban](https://www.etymonline.com/word/ban?ref=etymonline_crossreference) (v.)). The sense gradually passed from "favor asked" to "thing asked for," to "a good thing received, a benefit enjoyed" (1767).
+
+
+
+**diagnose**
+
+释义:
+
+to recognize and name the exact character of a disease or a problem, byexamining it诊断（病症）；查出（问题）
+
+例句:
+
+The [electrician](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/electrician) has diagnosed a [fault](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/fault) in the [wiring](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/wiring).电工查出了一处线路故障。
+
+词源:
+
+1.选自牛津词源词典
+
+Mid 19th century: back-formation from diagnosis.
+
+2.选自etymonline
+
+1861, back-formation from [diagnosis](https://www.etymonline.com/word/diagnosis?ref=etymonline_crossreference). Related: Diagnosed; diagnosing.
+
+
+
+**protocol**
+
+释义:
+
+1.the system of rules and acceptable behaviourused at official ceremonies and occasions礼仪，礼节
+
+2.a formal international agreement（正式的国际性）条约，公约，议定书
+
+例句:
+
+The Geneva Protocol of 1925 [prohibits](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/prohibit) the use of [poisonous](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/poisonous)[gases](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/gas) in [war](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/war).1925年通过的《日内瓦公约》禁止在战争中使用有毒气体。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English (denoting the original minute of an agreement, forming the legal authority for future dealings relating to it): from Old French prothocole, via medieval Latin from Greek prōtokollon ‘first page, flyleaf’, from prōtos ‘first’ + kolla ‘glue’. Sense 1 derives from French protocole, the collection of set forms of etiquette to be observed by the French head of state, and the name of the government department responsible for this (in the 19th century).
+
+2.选自etymonline
+
+1540s, as prothogall "draft of a document," from Middle French prothocole (c. 1200, Modern French protocole), from Medieval Latin protocollum "draft," literally "the first sheet of a volume" (on which contents and errata were written), from Greek protokollon "first sheet glued onto a manuscript," from protos "first" (see [proto-](https://www.etymonline.com/word/proto-?ref=etymonline_crossreference)) + kolla"glue."
+
+Sense developed in Medieval Latin and French from "official account" to "official record of a transaction," to "diplomatic document," and finally, in French, to "formula of diplomatic etiquette." Meaning "diplomatic rules of etiquette" in English first recorded 1896, from French; general sense of "conventional proper conduct" is from 1952. "Protocols of the (Learned) Elders of Zion," Russian anti-Semitic forgery purporting to reveal Jewish plan for world domination, first published in English 1920 under title "The Jewish Peril."
+
+
+
+
+
