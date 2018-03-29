@@ -348,5 +348,185 @@ Sense developed in Medieval Latin and French from "official account" to "officia
 
 
 
+3月28,29日
 
+**discern**
+
+释义:
+
+to see, recognize, or understand something that is not clear看出；辨别出；明白
+
+例句:
+
+I could just discern a [figure](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/figure) in the darkness.在黑暗中我只能看出一个人影。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English: via Old French from Latin discernere, from dis- ‘apart’ + cernere ‘to separate’.
+
+2.选自etymonline
+
+late 14c., from Old French discerner (13c.) "distinguish (between), separate" (by sifting), and directly from Latin discernere "to separate, set apart, divide, distribute; distinguish, perceive," from dis- "off, away" (see [dis-](https://www.etymonline.com/word/dis-?ref=etymonline_crossreference)) + cernere "distinguish, separate, sift" (from PIE root [*krei-](https://www.etymonline.com/word/*krei-?ref=etymonline_crossreference) "to sieve," thus "discriminate, distinguish"). Related: Discerned; [discerning](https://www.etymonline.com/word/discerning?ref=etymonline_crossreference).
+
+**innate**
+
+释义:
+
+An innate quality or ability is one that you were born with, not one you havelearned.天生的，固有的
+
+例句:
+
+Cyril's most [impressive](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/impressive) [quality](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/quality) was his innate [goodness](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/goodness).西里尔给人印象最深的品质是他天生的善良。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English: from Latin innatus, past participle of innasci, from in- ‘into’ + nasci ‘be born’
+
+2.选自etymonline
+
+early 15c., "existing from birth," from Late Latin innatus "inborn, native, natural" (source also of French inné, Spanish and Italian innato), past participle of innasci "to be born in, originate in," from in- "in" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference) "in") + nasci "to be born" (Old Latin gnasci), from PIE root [*gene-](https://www.etymonline.com/word/*gene-?ref=etymonline_crossreference) "give birth, beget," with derivatives referring to procreation and familial and tribal groups. Opposed to acquired. Related: Innately; innateness.
+
+**nag**
+
+释义:
+
+to criticize or complain often in an annoying way不断批评（或抱怨）；跟…纠缠不休；唠叨
+
+例句:
+
+My mum's always nagging me to get my [hair](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/hair) [cut](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/cut).我妈妈总是唠叨着要我去理发。
+
+词源:
+
+1.选自牛津词源词典
+
+Early 19th century (originally dialect in the sense ‘gnaw’): perhaps of Scandinavian or Low German origin; compare with Norwegian and Swedish nagga ‘gnaw, irritate’ and Low German ( g)naggen ‘provoke’.
+
+2.选自etymonline
+
+"annoy by scolding," 1828, originally a dialectal word meaning "to gnaw" (1825), probably ultimately from a Scandinavian source (compare Old Norse gnaga "to complain," literally "to bite, gnaw," dialectal Swedish and Norwegian nagga "to gnaw"), from Proto-Germanic *gnagan, related to Old English gnagan "to gnaw" (see [gnaw](https://www.etymonline.com/word/gnaw?ref=etymonline_crossreference)). Related: Nagged; nagger; nagging.
+
+**sickle**
+
+释义:
+
+a tool with a short handle and a curved blade, used for cutting grass and graincrops镰刀
+
+词源:
+
+1.选自牛津词源词典
+
+Old English sicol, sicel, of Germanic origin; related to Dutch sikkel and German Sichel, based on Latin secula, from secare ‘to cut’.
+
+2.选自etymonline
+
+Old English sicol, probably a West Germanic borrowing (Middle Dutch sickele, Dutch sikkel, Old High German sihhila, German Sichel) from Vulgar Latin *sicila, from Latin secula "sickle" (source also of Italian segolo "hatchet"), from PIE root *sek- "to cut" (see [section](https://www.etymonline.com/word/section?ref=etymonline_crossreference) (n.)). Applied to curved or crescent-shaped things from mid-15c. Sickle-cell anemia is first recorded 1922.
+
+**lug**
+
+释义:
+
+to carry or pull something with effort or difficulty because it is heavy（费力地）拖，拉，拽
+
+例句:
+
+I'm [exhausted](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/exhausted) after lugging these [suitcases](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/suitcase) all the way [across](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/across) the [city](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/city).拖着这些箱子穿过整个城市可把我给累坏了。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English: probably of Scandinavian origin: compare with Swedish lugga ‘pull a person's hair’ (from lugg ‘forelock’).
+
+2.选自etymonline
+
+late 14c., "pull (something) slowly or with effort," from Scandinavian (compare Swedish lugga, Norwegian lugge "to pull by the hair"); see [lug](https://www.etymonline.com/word/lug?ref=etymonline_crossreference) (n.). Related: Lugged; lugging.
+
+**boredom**
+
+释义:
+
+the state of being bored厌烦；厌倦；乏味；无聊
+
+例句:
+
+They [started](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/start) [quarrelling](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/quarrel) out of [sheer](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sheer) boredom.他们开始吵架完全是出于无聊。
+
+词源:
+
+1.选自etymonline
+
+1845, "state of being bored," from [bore](https://www.etymonline.com/word/bore?ref=etymonline_crossreference) (v.1) + [-dom](https://www.etymonline.com/word/-dom?ref=etymonline_crossreference). It also has been employed in a sense "bores as a class" (1849) and "practice of being a bore" (1840, a sense properly belonging to boreism, 1833).
+
+**mediocrity**
+
+释义:
+
+the quality of being not very good平庸
+
+例句:
+
+A [goal](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/goal) just before [half-time](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/half-time) [rescued](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/rescue) the [match](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/match) from mediocrity.就在半场结束前的一记进球使这场比赛没有流于平庸。
+
+词源:
+
+1.选自etymonline
+
+early 15c., "moderation; intermediate state or amount," from Middle French médiocrité and directly from Latin mediocritatem (nominative mediocritas) "a middle state, middling condition, medium," from mediocris (see [mediocre](https://www.etymonline.com/word/mediocre?ref=etymonline_crossreference)). Neutral at first; disparaging sense began to predominate from late 16c. The meaning "person of mediocre abilities or attainments" is from 1690s. Before the tinge of disparagement crept in, another name for the Golden Mean was golden mediocrity.
+
+**probation**
+
+释义:
+
+a period of time during which a student who has not performed well mustcontinue to have a particular grade point average in order to stay in school（学生的）试读期
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English (denoting testing or investigation): from Old French probacion, from Latin probatio(n-), from probare ‘to test, prove’ (see prove). The legal use dates from the late 19th century.
+
+2.选自etymonline
+
+early 15c., "trial, experiment, test," from Old French probacion "proof, evidence" (14c., Modern French probation) and directly from Latin probationem (nominative probatio) "approval, assent; a proving, trial, inspection, examination," noun of action from past participle stem of probare "to test" (see [prove](https://www.etymonline.com/word/prove?ref=etymonline_crossreference)). Meaning "testing of a person's conduct" (especially as a trial period for membership) is from early 15c.; theological sense first recorded 1520s; criminal justice sense is recorded by 1866. As a verb from 1640s. Related: Probationer; probationary.
+
+**meditate**
+
+释义:
+
+to think calm thoughts in order to relax or as a religious activity默念，冥想
+
+例句:
+
+Sophie meditates for 20 [minutes](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/minute) every [day](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/day).索菲每天冥想20分钟
+
+词源:
+
+1.选自牛津词源词典
+
+Mid 16th century: from Latin meditat- ‘contemplated’, from the verb meditari, from a base meaning ‘measure’; related to mete.
+
+2.选自etymonline
+
+1580s, "to ponder," back-formation from [meditation](https://www.etymonline.com/word/meditation?ref=etymonline_crossreference), or else from Latin meditatus, past participle of meditari "to meditate, think over, reflect, consider," frequentative form of PIE root [*med-](https://www.etymonline.com/word/*med-?ref=etymonline_crossreference) "take appropriate measures." Related: Meditated; meditating.
+
+**leverage**
+
+释义:
+
+the action or advantage of using a lever杠杆作用；杠杆效力
+
+例句:
+
+Using [ropes](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/rope) and [wooden](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/wooden) [poles](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/pole) for leverage, they [haul](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/haul) [sacks](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sack) of [cement](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/cement) up the [track](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/track).利用绳子和木棍取得杠杆作用，他们把几大袋水泥从轨道上拖开。
+
+词源:
+
+1.选自etymonline
+
+1724, "action of a lever," from [lever](https://www.etymonline.com/word/lever?ref=etymonline_crossreference) (n.) + [-age](https://www.etymonline.com/word/-age?ref=etymonline_crossreference). Meaning "power or force of a lever" is from 1827; figurative sense "advantage for accomplishing a purpose" is from 1858. The financial sense is attested by 1933, American English; as a verb in the financial sense by 1956. Related: Leveraged; leverages; leveraging.
 
