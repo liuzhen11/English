@@ -530,3 +530,142 @@ Using [ropes](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%
 
 1724, "action of a lever," from [lever](https://www.etymonline.com/word/lever?ref=etymonline_crossreference) (n.) + [-age](https://www.etymonline.com/word/-age?ref=etymonline_crossreference). Meaning "power or force of a lever" is from 1827; figurative sense "advantage for accomplishing a purpose" is from 1858. The financial sense is attested by 1933, American English; as a verb in the financial sense by 1956. Related: Leveraged; leverages; leveraging.
 
+
+
+4月1日
+
+**incline**
+
+释义:
+
+to (make someone) feel something or want to do something*（使）倾向于
+
+例句:
+
+The [prime](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/prime) [minister](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/minister) is [believed](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/believe) to be inclining **towards** an [April](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/april) [election](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/election).据信首相倾向于在4月举行大选。
+
+词源:
+
+1.选自牛津词源词典
+
+Middle English (originally in the sense ‘bend (the head or body) towards something’; formerly also as encline): from Old French encliner, from Latin inclinare, from in- ‘towards’ + clinare ‘to bend’.
+
+2.选自etymonline
+
+c. 1600, "mental tendency," from [incline](https://www.etymonline.com/word/incline?ref=etymonline_crossreference) (v.). The literal meaning "slant, slope" is attested from 1846 in railroading.
+
+**drummer**
+
+释义:
+
+someone who plays a drum or a set of drums, especially in a music group*（尤指乐队中的）鼓手
+
+词源:
+
+选自etymonline
+
+1570s, agent noun from [drum](https://www.etymonline.com/word/drum?ref=etymonline_crossreference) (v.).
+
+**blast**
+
+释义:
+
+to explode or destroy something or someone with explosives, or to breakthrough or hit something with a similar, very strong force*炸毁；爆破
+
+例句:
+
+A [tunnel](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/tunnel) was to be blasted through the [mountains](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/mountain).要在群山中开凿一条隧道。
+
+词源:
+
+1.选自牛津词源词典
+
+Old English blǣst, of Germanic origin; related to blaze.
+
+2选自etymonline
+
+Old English blæst "a blowing, a breeze, puff of wind," from Proto-Germanic *bles- (source also of Old Norse blastr, Old High German blast "a blowing, blast"), from PIE root [*bhle-](https://www.etymonline.com/word/*bhle-?ref=etymonline_crossreference) "to blow."
+
+Meaning "explosion" is from 1630s; that of "noisy party, good time" is from 1953, American English slang. Sense of "strong current of air forced into a furnace to accelerate combustion for iron-smelting" (1690s) led to blast furnace (1706) and transferred American English sense in full blast "the extreme" (1836). Blast was the usual word for "a smoke of tobacco" c. 1600.
+
+**commodity**
+
+释义:
+
+a substance or product that can be traded, bought, or sold*商品，货物
+
+例句:
+
+The country's most [valuable](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/valuable) commodities [include](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/include) [tin](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/tin) and [diamonds](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/diamond).该国最有价值的商品包括锡和钻石。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English: from Old French commodite or Latin commoditas, from commodus (see commodious).
+
+2.选自etymonline
+
+early 15c., "benefit, profit, welfare;" also "a convenient or useful product," from Old French commodité "benefit, profit" (15c.) and directly from Latin commoditatem (nominative commoditas) "fitness, adaptation, convenience, advantage," from commodus "proper, fit, appropriate, convenient, satisfactory," from com-, here probably an intensive prefix (see[com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference)), + modus "measure, manner" (from PIE root [*med-](https://www.etymonline.com/word/*med-?ref=etymonline_crossreference) "take appropriate measures").
+
+From early 15c. as "article of merchandise, anything movable of value that can be bought or sold." General sense "property, possession" is from c. 1500.
+
+**adamant**
+
+释义:
+
+impossible to persuade, or unwilling to change an opinion or decision*固执的；坚决的，坚定不移的
+
+例句:
+
+ I've told her she should [stay](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/stay) at [home](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/home) and [rest](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/rest) but she's adamant that she's coming.我告诉过她应该在家休息，可她坚持要来。
+
+词源:
+
+1.选自牛津词源词典
+
+Old English (as a noun), from Old French adamaunt-, via Latin from Greek adamas, adamant-, ‘untameable, invincible’ (later used to denote the hardest metal or stone, hence diamond), from a- ‘not’ + daman ‘to tame’. The phrase to be adamant dates from the 1930s, although adjectival use had been implied in such collocations as ‘an adamant heart’ since the 16th century.
+
+2.选自etymonline
+
+late 14c., "hard, unbreakable," from [adamant](https://www.etymonline.com/word/adamant?ref=etymonline_crossreference) (n.). Figurative sense of "unshakeable" first recorded 1670s. Related: Adamantly; adamance.
+
+**dodge**
+
+释义:
+
+to avoid being hit by something by moving quickly to one side*躲闪，避开
+
+例句:
+
+He dodged to [avoid](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/avoid) the [hurtling](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/hurtle) [bicycle](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/bicycle).他闪身躲过了疾驰而来的自行车。
+
+词源:
+
+1.选自牛津词源词典
+
+Mid 16th century (in the senses ‘dither’ and ‘haggle’): of unknown origin.
+
+2.选自etymonline
+
+"to move to and fro" (especially in an effort to avoid something), 1560s, origin and sense evolution obscure, perhaps akin to Scottish dodd "to jog." Common from early 18c. in figurative sense of "to swindle, to play shifting tricks." Related: Dodged; dodging.
+
+**archaic**
+
+释义:
+
+of or belonging to an ancient period in history*古老的，古代的；原始的
+
+例句:
+
+an archaic [system](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/system) of [government](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/government)古老的政体
+
+词源:
+
+1.选自牛津词源词典
+
+Mid 19th century: from French archaïque, from Greek arkhaikos, from arkhaios, from arkhē ‘beginning’.
+
+2.选自etymonline
+
+1810, from or by influence of French archaique (1776), ultimately from Greek arkhaikos "old-fashioned," from arkhaios "ancient, old-fashioned, antiquated, primitive," from arkhe "beginning" (see [archon](https://www.etymonline.com/word/archon?ref=etymonline_crossreference)). Not merely crude, the archaic has "a rudeness and imperfection implying the promise of future advance" [Century Dictionary]. Archaical is attested from 1799.
