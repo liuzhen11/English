@@ -669,3 +669,105 @@ Mid 19th century: from French archaïque, from Greek arkhaikos, from arkhaios, f
 2.选自etymonline
 
 1810, from or by influence of French archaique (1776), ultimately from Greek arkhaikos "old-fashioned," from arkhaios "ancient, old-fashioned, antiquated, primitive," from arkhe "beginning" (see [archon](https://www.etymonline.com/word/archon?ref=etymonline_crossreference)). Not merely crude, the archaic has "a rudeness and imperfection implying the promise of future advance" [Century Dictionary]. Archaical is attested from 1799.
+
+
+
+4月2日
+
+**unravel**
+
+释义:
+
+If a piece of knitted or woven cloth, a knot, or a mass of thread unravels, itseparates into a single thread, and if you unravel it, you separate it into a singlethread.（把布、结或线团）解开；拆散
+
+例句:
+
+You'd [better](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/better) [mend](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/mend) that [hole](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/hole) before the [whole](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/whole) [sweater](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sweater) [starts](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/start) to unravel.你最好把那个洞补上，免得整件毛衣脱线。
+
+词源:
+
+选自etymonline
+
+c. 1600 (transitive), from [un-](https://www.etymonline.com/word/un-?ref=etymonline_crossreference) (2) + [ravel](https://www.etymonline.com/word/ravel?ref=etymonline_crossreference) (v.). Intransitive from 1640s. "The prefix is either reversive or intensive, according as ravel is taken to mean 'tangle' or 'untangle'" [Century Dictionary]. Related: Unravelled; unravelling; unravellment.
+
+**pandemonium**
+
+释义:
+
+a situation in which there is a lot of noise and confusion because people areexcited, angry, or frightened*骚动；群情沸腾
+
+例句:
+
+Pandemonium [reigned](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/reign) in the [hall](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/hall) as the [unbelievable](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/unbelievable) [election](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/election) [results](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/result) were [read](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/read) out.令人难以置信的竞选结果一宣布，大厅里便乱成一片。
+
+词源:
+
+1.选自牛津词源词典
+
+Mid 17th century: modern Latin (denoting the place of all demons, in Milton's Paradise Lost), from pan- ‘all’ + Greek daimōn ‘demon’.
+
+2.选自etymonline
+
+1667, Pandæmonium, in "Paradise Lost" the name of the palace built in the middle of Hell, "the high capital of Satan and all his peers," coined by John Milton (1608-1674) from Greek pan- "all" (see [pan-](https://www.etymonline.com/word/pan-?ref=etymonline_crossreference)) + Late Latin daemonium "evil spirit," from Greek daimonion "inferior divine power," from daimon "lesser god" (see [demon](https://www.etymonline.com/word/demon?ref=etymonline_crossreference)).
+
+Transferred sense "place of uproar" is from 1779; that of "wild, lawless confusion" is from 1865. Related: Pandemoniac; pandemoniacal; pandemonian; pandemonic.
+
+**enroll**
+
+释义:
+
+to put yourself or someone else onto the official list of members of a course,college, or group（使）加入；注册；招（生）；吸收
+
+例句:
+
+Is it too late to enrol at the [college](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/college)?现在去那所大学注册是不是来不及了？
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English (formerly also as inroll): from Old French enroller, from en- ‘in’ + rolle ‘a roll’ (names being originally written on a roll of parchment).
+
+2.选自etymonline
+
+mid-14c. (transitive), from Old French enroller "record in a register, write in a roll" (13c., Modern French enrôler), from en- "make, put in" (see [en-](https://www.etymonline.com/word/en-?ref=etymonline_crossreference) (1)) + rolle (see [roll](https://www.etymonline.com/word/roll?ref=etymonline_crossreference) (n.)). Related: Enrolled; enrolling.
+
+**eclectic**
+
+释义:
+
+Methods, beliefs, ideas, etc. that are eclectic combine whatever seem the best or most useful things from many different areas or systems, rather than following asingle system.不拘一格的；兼收并蓄的；博采众长的
+
+例句:
+
+an eclectic [style](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/style)/[approach](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/approach)兼收并蓄的风格／博采众长的方法
+
+词源:
+
+1.选自牛津词源词典
+
+Late 17th century (as a term in philosophy): from Greek eklektikos, from eklegein ‘pick out’, from ek ‘out’ + legein ‘choose’.
+
+2.选自etymonline
+
+1680s, "not confined to or following any one model or system," originally in reference to ancient philosophers who selected doctrines from every system; from French eclectique (1650s), from Greek eklektikos "selective," literally "picking out," from eklektos "selected," from eklegein "pick out, select," from ek "out" (see [ex-](https://www.etymonline.com/word/ex-?ref=etymonline_crossreference)) + legein "gather, choose," from PIE root [*leg-](https://www.etymonline.com/word/*leg-?ref=etymonline_crossreference) (1) "to collect, gather." Broader sense of "borrowed from diverse sources" is first recorded 1847. As a noun from 1817.
+
+**thrash**
+
+释义:
+
+to hit a person or animal hard many times as a punishment（作为惩罚）毒打，痛打
+
+例句:
+
+His [father](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/father) used to thrash him when he was a [boy](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/boy).当他还是孩子时，他的父亲经常用鞭打他。
+
+词源:
+
+1.选自牛津词源词典
+
+Old English, variant of thresh (an early sense). Current senses of the noun date from the mid 19th century.
+
+2.选自etymonline
+
+1580s, "to separate grains from wheat, etc., by beating," dialectal variant of threshen (see [thresh](https://www.etymonline.com/word/thresh?ref=etymonline_crossreference)). Sense of "beat (someone) with (or as if with) a flail" is first recorded 1620s. Meaning "to make wild movements like those of a flail or whip" is attested from 1846. Related: Thrashed; thrashing. As a noun from 1660s, "threshing tool;" 1840s as "a beating;" 1982 as the name for a type of fast heavy metal music.
