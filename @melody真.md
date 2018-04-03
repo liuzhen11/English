@@ -771,3 +771,110 @@ Old English, variant of thresh (an early sense). Current senses of the noun date
 2.选自etymonline
 
 1580s, "to separate grains from wheat, etc., by beating," dialectal variant of threshen (see [thresh](https://www.etymonline.com/word/thresh?ref=etymonline_crossreference)). Sense of "beat (someone) with (or as if with) a flail" is first recorded 1620s. Meaning "to make wild movements like those of a flail or whip" is attested from 1846. Related: Thrashed; thrashing. As a noun from 1660s, "threshing tool;" 1840s as "a beating;" 1982 as the name for a type of fast heavy metal music.
+
+
+
+4月3日
+
+**demise**
+
+释义:
+
+the death of a person（…的）死亡，逝世
+
+例句:
+
+**the end of something that was previously considered to be powerful, such as abusiness, industry, or system**
+
+倒闭；败落；垮台
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English (as a legal term): from Anglo-Norman French, past participle (used as a noun) of Old French desmettre ‘dismiss’, (in reflexive) ‘abdicate’, based on Latin dimittere (see dismiss).
+
+2.选自etymonline
+
+mid-15c., from Middle French demise, fem. past participle of démettre "dismiss, put away," from des- "away" (from Latin dis-) + Middle French mettre "put," from Latin mittere "let go, send" (see [mission](https://www.etymonline.com/word/mission?ref=etymonline_crossreference)). Originally "transfer of estate by will," meaning extended 1754 to "death" because that's when this happens.
+
+**obscure**
+
+释义:
+
+not known to many people无名的；鲜为人知的；默默无闻的
+
+例句:
+
+an obscure [island](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/island) in the [Pacific](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/pacific)太平洋中的无名小岛
+
+词源:
+
+1选自牛津词源词典
+
+Late Middle English: from Old French obscur, from Latin obscurus ‘dark’, from an Indo-European root meaning ‘cover’.
+
+2.选自etymonline
+
+early 15c., "to cover (something), cloud over," from [obscure](https://www.etymonline.com/word/obscure?ref=etymonline_crossreference) (adj.) or else from Middle French obscurer, from Latin obscurare "to make dark, darken, obscure," from obscurus. Related: Obscured; obscuring.
+
+**tuck**
+
+释义:
+
+to push a loose end of a piece of clothing or material into a particular place orposition, especially to make it tidy or comfortable把（衣服等的末端）塞进
+
+例句:
+
+Should I tuck my [shirt](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/shirt) into my [trousers](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/trousers)?我应该把衬衫下摆塞进裤子里吗？
+
+词源:
+
+1.选自牛津词源词典
+
+Old English tūcian ‘to punish, ill-treat’: of West Germanic origin; related to tug. Influenced in Middle English by Middle Dutch tucken ‘pull sharply’.
+
+2.选自etymonline
+
+late 14c., "to pull or gather up," earlier "to pluck, stretch" (implied in tucker "one who finishes clothes by stretching them on tenters, late 13c. as a surname), probably from Middle Low German or Middle Dutch tucken "pull up, draw up, tug" (cognate with Old English tucian "mistreat, torment," and related to Old English togian "to pull," German zucken; see [tow](https://www.etymonline.com/word/tow?ref=etymonline_crossreference) (v.)). Sense of "thrust into a snug place" is first recorded 1580s. Slang meaning "to consume, swallow, put into one's stomach" is recorded from 1784. Related: Tucked; tucking.
+
+**retrospect**
+
+释义:
+
+thinking now about something in the past回顾；回想
+
+例句:
+
+In retrospect, I [think](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/think) my [marriage](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/marriage) was [doomed](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/doomed) from the [beginning](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/beginning).现在回头看，我觉得我的婚姻从一开始就注定要破裂。
+
+词源:
+
+1.选自牛津词源词典
+
+Early 17th century: from retro- ‘back’, on the pattern of the noun prospect.
+
+2.选自etymonline
+
+c. 1600, "a regard or reference" (to something), from Latin retrospectum, past participle of retrospicere "look back," from retro- "back" (see [retro-](https://www.etymonline.com/word/retro-?ref=etymonline_crossreference)) + specere "look at" (from PIE root [*spek-](https://www.etymonline.com/word/*spek-?ref=etymonline_crossreference) "to observe"). Meaning "survey of past events" is from 1660s.
+
+**depreciate**
+
+释义:
+
+to (cause something to) lose value, especially overtime（尤指随时间的推移）（使）贬值，（使）跌价
+
+例句:
+
+Our [car](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/car) depreciated (by) $1,500 in the first [year](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/year) we [owned](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/own) it.我们买的车第一年就贬值了1500美元。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English (in depreciate (sense 2)): from late Latin depreciat- ‘lowered in price, undervalued’, from the verb depreciare, from Latin de- ‘down’ + pretium ‘price’.
+
+2.选自etymonline
+
+mid-15c., from Latin depretiatus, past participle of depretiare "to lower the price of, undervalue," from de- "down" (see [de-](https://www.etymonline.com/word/de-?ref=etymonline_crossreference)) + pretium "price" (see [price](https://www.etymonline.com/word/price?ref=etymonline_crossreference) (n.)). Related: Depreciated; depreciating; depreciatory.
+
