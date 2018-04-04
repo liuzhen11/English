@@ -878,3 +878,106 @@ Late Middle English (in depreciate (sense 2)): from late Latin depreciat- ‘low
 
 mid-15c., from Latin depretiatus, past participle of depretiare "to lower the price of, undervalue," from de- "down" (see [de-](https://www.etymonline.com/word/de-?ref=etymonline_crossreference)) + pretium "price" (see [price](https://www.etymonline.com/word/price?ref=etymonline_crossreference) (n.)). Related: Depreciated; depreciating; depreciatory.
 
+
+
+4月4日
+
+**default**
+
+释义:
+
+to fail to do something, such as pay a debt, that you legally have to do拖欠，不履行债务；违约
+
+例句:
+
+People who default on [their](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/their) [mortgage](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/mortgage) [repayments](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/repayment) may have [their](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/their) [home](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/home) [repossessed](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/repossess).未能按期偿还抵押贷款者，其房屋可能会被收回。
+
+词源:
+
+1.选自牛津词源词典
+
+Middle English: from Old French defaut, from defaillir ‘to fail’, based on Latin fallere ‘disappoint, deceive’.
+
+2.选自etymonline
+
+late 14c., "be lacking, be missing," also "become weak," from [default](https://www.etymonline.com/word/default?ref=etymonline_crossreference) (n.). Related: Defaulted; defaulting.
+
+**plunge**
+
+释义:
+
+to (cause someone or something to) move or fall suddenly and often along way forward, down, or into something*（使）（某人或某物）骤然移动，骤然下降
+
+例句:
+
+We [ran](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/ran) down to the [beach](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/beach) and plunged into the [sea](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sea).我们跑向海滩，纵身跳入海中。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English: from Old French plungier ‘thrust down’, based on Latin plumbum ‘lead, plummet’.
+
+2.选自etymonline
+
+late 14c., "to put or thrust violently into," also intransitive, from Old French plongier "plunge, sink into; plunge into, dive in" (mid-12c., Modern French plonger), from Vulgar Latin *plumbicare "to heave the lead," from Latin plumbum "lead" (see [plumb](https://www.etymonline.com/word/plumb?ref=etymonline_crossreference) (n.)). Original notion perhaps is of a sounding lead or a fishing net weighted with lead. Related: Plunged; plunging. Plunging neckline attested from 1949.
+
+**surge**
+
+释义:
+
+a sudden and great increase陡增，剧增，急剧上升
+
+例句:
+
+There has been a surge in [house](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/house) [prices](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/price) [recently](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/recently).最近房价猛涨。
+
+词源:
+
+1.选自牛津词源词典
+
+Late 15th century (in the sense ‘fountain, stream’): the noun (in early use) from Old French sourgeon; the verb partly from the Old French stem sourge-, based on Latin surgere ‘to rise’. Early senses of the verb included ‘rise and fall on the waves’ and ‘swell with great force’.
+
+2.选自etymonline
+
+late 15c., "fountain, stream," of uncertain origin, probably from Middle French sourge-, stem of sourdre "to rise, swell," from Latin surgere "to rise, arise, get up, mount up, ascend; attack," contraction of surrigere, from assimilated form of sub "up from below" (see [sub-](https://www.etymonline.com/word/sub-?ref=etymonline_crossreference)) + regere "to keep straight, guide" (from PIE root [*reg-](https://www.etymonline.com/word/*reg-?ref=etymonline_crossreference) "move in a straight line," with derivatives meaning "to direct in a straight line," thus "to lead, rule"). Meaning "high, rolling swell of water" is from 1520s; figurative sense of "excited rising up" (as of feelings) is from 1510s.
+
+**reversal**
+
+释义:
+
+the act of changing or making somethingchange to its opposite*反向；倒转；倒退；推翻
+
+例句:
+
+He [demanded](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/demand) a reversal of the [previous](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/previous) [decision](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/decision)/[policy](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/policy).他要求撤销原来的决定／废弃原先的政策。
+
+词源:
+
+1.选自牛津词源词典
+
+Late 15th century (as a legal term): from reverse + -al.
+
+2.选自etymonline
+
+late 15c., from [reverse](https://www.etymonline.com/word/reverse?ref=etymonline_crossreference) (v.) + [-al](https://www.etymonline.com/word/-al?ref=etymonline_crossreference) (2).
+
+**arrogant**
+
+释义:
+
+ unpleasantly proud and behaving as if you are more important than, or know more than, otherpeople*傲慢的；狂妄自大的；趾高气扬的
+
+例句:
+
+I [found](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/found) him arrogant and [rude](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/rude).我觉得他这个人狂妄自大、粗鲁无礼。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English: via Old French from Latin arrogant- ‘claiming for oneself’, from the verb arrogare (see arrogate).
+
+2.选自etymonline
+
+"disposed to give oneself undue importance, aggressively haughty," late 14c., from Old French arrogant (14c.), from Latin arrogantem (nominative arrogans) "assuming, overbearing, insolent," present participle of arrogare "to claim for oneself, assume," from ad "to" (see [ad-](https://www.etymonline.com/word/ad-?ref=etymonline_crossreference)) + rogare "to ask, entreat, request," apparently a figurative use of a PIE verb meaning literally "to stretch out (the hand)," from root [*reg-](https://www.etymonline.com/word/*reg-?ref=etymonline_crossreference) "move in a straight line." Related: Arrogantly.
