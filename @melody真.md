@@ -981,3 +981,104 @@ Late Middle English: via Old French from Latin arrogant- ‘claiming for oneself
 2.选自etymonline
 
 "disposed to give oneself undue importance, aggressively haughty," late 14c., from Old French arrogant (14c.), from Latin arrogantem (nominative arrogans) "assuming, overbearing, insolent," present participle of arrogare "to claim for oneself, assume," from ad "to" (see [ad-](https://www.etymonline.com/word/ad-?ref=etymonline_crossreference)) + rogare "to ask, entreat, request," apparently a figurative use of a PIE verb meaning literally "to stretch out (the hand)," from root [*reg-](https://www.etymonline.com/word/*reg-?ref=etymonline_crossreference) "move in a straight line." Related: Arrogantly.
+
+
+
+4月5日
+
+**intertwine**
+
+释义:
+
+to twist or be twisted together, or to be connected so as to be difficult to separate（使）缠结，（使）缠绕在一起；（使）紧密关联
+
+例句:
+
+The town's [prosperity](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/prosperity) is inextricably intertwined with the [fortunes](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/fortune) of the [factory](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/factory).这座城镇的繁荣与这家工厂的兴盛有着密不可分的联系。
+
+词源:
+
+选自etymonline
+
+1640s (trans.), a hybrid from [inter-](https://www.etymonline.com/word/inter-?ref=etymonline_crossreference) + [twine](https://www.etymonline.com/word/twine?ref=etymonline_crossreference) (v.). Intransitive sense is from 1782. Related: Intertwined; intertwining.
+
+**pessimistic**
+
+释义:
+
+ thinking that bad things are more likely to happen or emphasizing the bad partof a situation*悲观的
+
+例句:
+
+The [tone](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/tone) of the [meeting](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/meeting) was very pessimistic.会议的气氛非常悲观。
+
+词源:
+
+选自etymonline
+
+1866, from [pessimist](https://www.etymonline.com/word/pessimist?ref=etymonline_crossreference) + [-ic](https://www.etymonline.com/word/-ic?ref=etymonline_crossreference).
+
+**tactile**
+
+释义:
+
+1.related to the sense of touch触觉的
+
+2.If something is tactile, it has a surface that is pleasant or attractive to touch.手感舒适的，富有质感的
+
+例句:
+
+Her [paintings](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/painting) have a very tactile [quality](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/quality).她的画具有很强的质感。
+
+词源:
+
+1.选自牛津词源词典
+
+Early 17th century (in the sense ‘perceptible by touch, tangible’): from Latin tactilis, from tangere ‘to touch’.
+
+2.选自etymonline
+
+1610s, "perceptible to touch," from French tactile (16c.) and directly from Latin tactilis "tangible, that may be touched," from tactus, past participle of tangere "to touch," from PIE root [*tag-](https://www.etymonline.com/word/*tag-?ref=etymonline_crossreference) "to touch, handle." Meaning "of or pertaining to the sense of touch" is attested from 1650s. Related: Tactility.
+
+**horrendous**
+
+释义:
+
+extremely unpleasant or bad极糟的；可怕的
+
+例句:
+
+a horrendous [accident](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/accident)/[tragedy](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/tragedy)/[crime](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/crime)可怕的事故／悲剧／罪行
+
+词源:
+
+1.选自牛津词源词典
+
+Mid 17th century: from Latin horrendus (gerundive of horrere ‘(of hair) stand on end’) + -ous.
+
+2.选自etymonline
+
+1650s, from Latin horrendus "dreadful, fearful, terrible," literally "to be shuddered at," gerundive of horrere "to bristle with fear, shudder" (see [horror](https://www.etymonline.com/word/horror?ref=etymonline_crossreference)). Earlier form in English was horrend (mid-15c.).
+
+**cloak**
+
+释义:
+
+1.a loose outer piece of clothing without sleeves, that fastens at the neck, and is worn instead of a coat斗篷，披风
+
+2.something that hides, covers, or keeps something else secret遮掩物；伪装；掩盖；幌子
+
+例句:
+
+The [restaurant](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/restaurant) he [owned](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/own) was just a cloak for (= [hid](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/hide)) his drug-dealing [activities](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/activity).他开那家餐馆不过是为他从事毒品交易作掩护。
+
+词源:
+
+1.选自牛津词源词典
+
+Middle English: from Old French cloke, dialect variant of cloche ‘bell, cloak’ (from its bell shape), from medieval Latin clocca ‘bell’. Compare with clock.
+
+2.选自etymonline
+
+cover with or as with a cloak," "c. 1500, from [cloak](https://www.etymonline.com/word/cloak?ref=etymonline_crossreference) (n.). Figuratively, "to cover up, hide, conceal" from 1540s. Related: Cloaked; cloaking.
+
