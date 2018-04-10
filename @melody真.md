@@ -1167,3 +1167,114 @@ Late 15th century (in the sense ‘drive or beat back’): from Latin reverberat
 2.选自etymonline
 
 1570s, "beat back, drive back, force back," from Latin reverberatus, past participle of reverberare "strike back, repel, cause to rebound" (see [reverberation](https://www.etymonline.com/word/reverberation?ref=etymonline_crossreference)). Meaning "re-echo" is from 1590s. Earlier verb was reverberen (early 15c.). Related: Reverberated; reverberating.
+
+4月10日
+
+engross
+
+释义:
+
+If something engrosses you, it is so interesting that you give it all your attention.使全神贯注
+
+例句:
+
+What is it about Harry Potter that so engrosses [children](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/children)?《哈利•波特》的什么方面让孩子们如此着迷？
+
+Synonym:
+
+**absorb**
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English (formerly also as ingross): based on en-, in- ‘in’ + late Latin grossus ‘large’. Sense 1 is from Old French en gros, from medieval Latin in grosso ‘wholesale’; sense 2 comes from Anglo-Norman French engrosser, medieval Latin ingrossare, from Old French grosse, medieval Latin grossa ‘large writing’, with reference to clerks writing out documents in large, clear writing.
+
+2.选自etymonline
+
+c. 1400, "to buy up the whole stock of" (in Anglo-French from c. 1300), from Old French en gros "in bulk, in a large quantity, at wholesale," as opposed to en detail. See [gross](https://www.etymonline.com/word/gross?ref=etymonline_crossreference).
+
+Figurative sense of "absorb the whole attention" is first attested 1709. A parallel engross, meaning "to write (something) in large letters," is from Anglo-French engrosser, from Old French en gros "in large (letters)." Related: Engrossed; engrossing.
+
+**intrinsic**
+
+释义:
+
+being an extremely important and basic characteristic of a person or thing固有的，本质的，根本的
+
+例句:
+
+Maths is an intrinsic [part](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/part) of the [school](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/school) [curriculum](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/curriculum).数学是中小学校的基础课。
+
+词源:
+
+1.选自牛津词源词典
+
+Late 15th century (in the general sense ‘interior, inner’): from French intrinsèque, from late Latin intrinsecus, from the earlier adverb intrinsecus ‘inwardly, inwards’.
+
+2.选自etymonline
+
+late 15c., "interior, inward, internal," from Middle French intrinsèque "inner" (14c.), from Medieval Latin intrinsecus "interior, internal," from Latin intrinsecus (adv.) "inwardly, on the inside," from intra "within" (see [intra-](https://www.etymonline.com/word/intra-?ref=etymonline_crossreference)) + secus "along, alongside," from PIE *sekw-os- "following," suffixed form of root [*sekw-](https://www.etymonline.com/word/*sekw-?ref=etymonline_crossreference) (1) "to follow."
+
+The form in English was conformed to words in -ic by 18c. Meaning "belonging to the nature of a thing" is from 1640s. Related: Intrinsical; intrinsically.
+
+**telex**
+
+释义:
+
+a method of sending written messages down a phone line from one teleprinter to another, the machine that does this, or the message itself电传；电传打字机；电传电报
+
+例句:
+
+The [details](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/detail) were [sent](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/sent) by telex.详细资料用电传发送过去了。
+
+词源:
+
+1.选自牛津词源词典
+
+1930s: blend of teleprinter and exchange.
+
+2.选自etymonline
+
+1932, "a communication system of teletypewriters," from tel(etype) ex(change).
+
+**volatile**
+
+释义:
+
+likely to change suddenly and unexpectedly or suddenly become violent orangry不稳定的；易变的；易怒的，喜怒无常的
+
+例句:
+
+The [situation](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/situation) was made more volatile by the [fact](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/fact) that [people](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/people) had been [drinking](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/drinking) a lot of [alcohol](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/alcohol).人们一直在大喝烈性酒，这让情况变得更加不稳定。
+
+词源:
+
+1.选自牛津词源词典
+
+Middle English (in the sense ‘creature that flies’, also, as a collective, ‘birds’): from Old French volatil or Latin volatilis, from volare ‘to fly’.
+
+2.选自etymonline
+
+1590s "fine or light," also "evaporating rapidly" (c. 1600), from Middle French volatile, from Latin volatilis "fleeting, transitory; swift, rapid; flying, winged," from past participle stem of volare "to fly" (see [volant](https://www.etymonline.com/word/volant?ref=etymonline_crossreference)). Sense of "readily changing, flighty, fickle" is first recorded 1640s. Volatiles in Middle English meant "birds, butterflies, and other winged creatures" (c. 1300).
+
+**irrevocable**
+
+释义:
+
+impossible to change不可改变的
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English: from Old French, or from Latin irrevocabilis, from in- ‘not’ + revocabilis ‘able to be revoked’ (from the verb revocare).
+
+2.选自etymonline
+
+also irrevokable, late 14c., from Latin irrevocabilis "that cannot be recalled, unalterable," from assimilated form of in- "not, opposite of" (see [in-](https://www.etymonline.com/word/in-?ref=etymonline_crossreference) (1)) + revocabilis (see [revoke](https://www.etymonline.com/word/revoke?ref=etymonline_crossreference)). Related: Irrevocably.
+
+
+
+
+
