@@ -1276,5 +1276,163 @@ also irrevokable, late 14c., from Latin irrevocabilis "that cannot be recalled, 
 
 
 
+4月12日
 
+**anonymous**
+
+释义:
+
+made or done by someone whose name is not known or not made public匿名的；不知姓名的；名字不公开的
+
+例句:
+
+The [money](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/money) was [donated](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/donate) by an anonymous [benefactor](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/benefactor).这笔钱来自一位不愿透露姓名的捐赠者。
+
+词源:
+
+1.选自牛津词源词典
+
+Late 16th century: via late Latin from Greek anōnumos ‘nameless’ (from an- ‘without’ + onoma ‘name’) + -ous.
+
+2.选自etymonline
+
+c. 1600, "without a name;" 1670s, "published under no name, of unknown authorship," from Late Latin anonymus, from Greek anonymos "without a name," from an- "without" (see [an-](https://www.etymonline.com/word/an-?ref=etymonline_crossreference) (1)) + onyma, Æolic dialectal form of onoma "name" (from PIE root [*no-men-](https://www.etymonline.com/word/*no-men-?ref=etymonline_crossreference) "name").
+
+**delve**
+
+释义:
+
+to search, especially as if by digging, in order to find a thing or information探索；深入寻找，搜寻
+
+例句:
+
+She delved into her [pocket](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/pocket) to [find](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/find) some [change](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/change).她伸手到口袋里找零钱。
+
+词源:
+
+1.选自牛津词源词典
+
+Old English delfan ‘dig’, of West Germanic origin; related to Dutch delven.
+
+2.选自etymonline
+
+Old English delfan "to dig" (class III strong verb; past tense dealf, past participle dolfen), common West Germanic verb (cognates: Old Saxon delban, Dutch delven, Middle High German telben "to dig"), from PIE root *dhelbh- (source also of Lithuanian delba "crowbar," Russian dolbit', Czech dlabati, Polish dłubać "to chisel;" Russian dolotó, Czech dlato, Polish dłuto "chisel"). Weak inflections emerged 14c.-16c. Related: Delved; delving.
+
+**interwoven**
+
+释义:
+
+**to twist together or combine two or more things so that they cannot be separatedeasily**
+
+使交织；使紧密结合
+
+例句:
+
+She has [created](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/create) an [intriguing](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/intriguing) [story](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/story) by [skilfully](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/skilfully) interweaving [fictional](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/fictional) and [historical](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/historical) [events](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/event).她巧妙地将虚构的事件和历史事件交织在一起，创作了一个引人入胜的故事。
+
+词源:
+
+选自etymonline
+
+1640s, past participle of [interweave](https://www.etymonline.com/word/interweave?ref=etymonline_crossreference) (q.v.).
+
+**exacerbate**
+
+释义:
+
+to make something that is already bad even worse使恶化；使加重；使加剧
+
+例句:
+
+This [attack](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/attack) will exacerbate the already [tense](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/tense) [relations](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/relation) between the two [communities](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/community).这次袭击将使两个团体间已经紧张的关系更加恶化。
+
+词源:
+
+1.选自牛津词源词典
+
+Mid 17th century: from Latin exacerbat- ‘made harsh’, from the verb exacerbare, from ex- (expressing inducement of a state) + acerbus ‘harsh, bitter’.
+
+2.选自etymonline
+
+1650s, a back-formation from [exacerbation](https://www.etymonline.com/word/exacerbation?ref=etymonline_crossreference) or else from Latin exacerbatus, past participle of exacerbare "irritate, provoke." Related: Exacerbated; exacerbating.
+
+**immerse**
+
+释义:
+
+to become completely involved in something埋头做…
+
+例句:
+
+She got some [books](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/book) out of the [library](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/library) and immersed herself in Jewish [history](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/history) and [culture](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/culture).她从图书馆借了一些书，然后埋头于犹太历史和文化之中。
+
+词源:
+
+1.选自牛津词源词典
+
+Early 17th century: from Latin immers- ‘dipped into’, from the verb immergere, from in- ‘in’ + mergere ‘to dip’.
+
+2.选自etymonline
+
+"to plunge into (a fluid)," early 15c. (implied in immersed), from Latin immersus, past participle of immergere "to plunge in, dip into, sink, submerge" (see [immersion](https://www.etymonline.com/word/immersion?ref=etymonline_crossreference)). Figuratively, of study, work, passion, etc., from 1660s. Related: Immersed; immersing; immersive.
+
+**catastrophe**
+
+释义:
+
+a sudden event that causes very great trouble or destruction大灾难；大灾祸
+
+例句:
+
+They were [warned](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/warn) of the [ecological](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/ecological) catastrophe to come.他们收到警告，生态灾难即将来临。
+
+词源:
+
+1.选自牛津词源词典
+
+Mid 16th century (in the sense ‘denouement’): from Latin catastropha, from Greek katastrophē ‘overturning, sudden turn’, from kata- ‘down’ + strophē ‘turning’ (from strephein ‘to turn’).
+
+2.选自etymonline
+
+1530s, "reversal of what is expected" (especially a fatal turning point in a drama, the winding up of the plot), from Latin catastropha, from Greek katastrophe "an overturning; a sudden end," from katastrephein "to overturn, turn down, trample on; to come to an end," from kata "down" (see [cata-](https://www.etymonline.com/word/cata-?ref=etymonline_crossreference)) + strephein "turn" (from PIE root [*streb(h)-](https://www.etymonline.com/word/*streb(h)-?ref=etymonline_crossreference) "to wind, turn"). Extension to "sudden disaster" is first recorded 1748.
+
+**align**
+
+释义:
+
+to put two or more things into a straight line使成一条直线；对准；校直
+
+例句:
+
+When you've aligned the [notch](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/notch) on the [gun](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/gun) with the [target](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/target), [fire](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/fire)!当枪的标尺、准星和目标成一条直线时，开火！
+
+词源:
+
+1.选自牛津词源词典
+
+Late 17th century: from French aligner, from à ligne ‘into line’.
+
+2.选自etymonline
+
+early 15c., "to copulate" (of wolves, dogs), literally "to range (things) in a line," from Old French alignier "set, lay in line" (Modern French aligner), from from à "to" (see [ad-](https://www.etymonline.com/word/ad-?ref=etymonline_crossreference)) + lignier "to line," from Latin lineare "reduce to a straight line," from linea (see [line](https://www.etymonline.com/word/line?ref=etymonline_crossreference) (n.)). Transitive or reflexive sense of "to fall into line" is from 1853. International political sense is attested from 1934. The French spelling with -g- is unetymological, and aline was an early form in English. Related: Aligned; aligning.
+
+**indelible**
+
+释义:
+
+An indelible mark or substance is impossible to remove by washing or in any other way.洗不掉的；无法去除的
+
+例句:
+
+The [blood](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/blood) had [left](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/left) an indelible [mark](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/mark) on her [shirt](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/shirt).她衬衫上留下的血迹洗不掉。
+
+词源:
+
+1.选自牛津词源词典
+
+Late 15th century (as indeleble): from French, or from Latin indelebilis, from in- ‘not’ + delebilis (from delere ‘efface, delete’). The ending was altered under the influence of -ible.
+
+2.选自etymonline
+
+1520s, from Latin indelebilis "indelible, imperishable," from in- "not, opposite of, without" (see [in-](https://www.etymonline.com/word/in-?ref=etymonline_crossreference) (1)) + delebilis "able to be destroyed," from delere "destroy, blot out" (see [delete](https://www.etymonline.com/word/delete?ref=etymonline_crossreference)). Vowel change from -e- to -i- in English is late 17c. Related: Indelibly.
 
