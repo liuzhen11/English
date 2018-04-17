@@ -1436,3 +1436,101 @@ Late 15th century (as indeleble): from French, or from Latin indelebilis, from i
 
 1520s, from Latin indelebilis "indelible, imperishable," from in- "not, opposite of, without" (see [in-](https://www.etymonline.com/word/in-?ref=etymonline_crossreference) (1)) + delebilis "able to be destroyed," from delere "destroy, blot out" (see [delete](https://www.etymonline.com/word/delete?ref=etymonline_crossreference)). Vowel change from -e- to -i- in English is late 17c. Related: Indelibly.
 
+
+
+4月17日
+
+**pivotal**
+
+释义:
+
+central and important关键性的，核心的
+
+释义:
+
+选自etymonline
+
+1844, in figurative sense, from [pivot](https://www.etymonline.com/word/pivot?ref=etymonline_crossreference) (n.) + [-al](https://www.etymonline.com/word/-al?ref=etymonline_crossreference) (1).
+
+**pendulum**
+
+释义:
+
+a device consisting of a weight on a stick or thread that moves from one sideto the other, especially one that forms a part of some types of clocks摆，摆锤；（尤指）钟摆
+
+例句:
+
+The pendulum in the [grandfather](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/grandfather) [clock](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/clock) [swung](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/swung) back and [forth](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/forth).落地钟的钟摆来回摆动。
+
+词源:
+
+1.选自牛津词源词典
+
+Mid 17th century: from Latin, neuter (used as a noun) of pendulus ‘hanging down’.
+
+2.选自etymonline
+
+1660, from Modern Latin pendulum (1643), noun use of neuter of Latin adjective pendulus "hanging down," from pendere "to hang, cause to hang" (from PIE root [*(s)pen-](https://www.etymonline.com/word/*(s)pen-?ref=etymonline_crossreference) "to draw, stretch, spin"). The Modern Latin word is perhaps a Latinization of Italian pendolo.
+
+**kooky**
+
+释义:
+
+(especially of a person) strange in his or her appearance or behaviour, especiallyin a way that is interesting怪癖的；（尤指）怪诞的
+
+例句:
+
+She's got this kooky, [high-pitched](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/high-pitched) [voice](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/voice).她的嗓门很大，而且怪怪的。
+
+词源:
+
+选自etymonline
+
+1959, American English, originally teenager or beatnik slang, possibly a shortening of [cuckoo](https://www.etymonline.com/word/cuckoo?ref=etymonline_crossreference).
+
+**chronic**
+
+释义:
+
+ (especially of a disease or something bad) continuing for a long time（尤指疾病或不好的事物）慢性的，长期的
+
+例句:
+
+1.chronic [arthritis](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/arthritis)/[pain](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/pain)慢性关节炎／长期的疼痛
+
+2.There is a chronic [shortage](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/shortage) of [teachers](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/teacher).教师长期短缺。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English: from French chronique, via Latin from Greek khronikos ‘of time’, from khronos ‘time’.
+
+2.选自etymonline
+
+early 15c., of diseases, "lasting a long time," from Middle French chronique, from Latin chronicus, from Greek khronikos "of time, concerning time," from khronos "time" (see [chrono-](https://www.etymonline.com/word/chrono-?ref=etymonline_crossreference)). Vague disapproving sense (from 17c.) is from association with diseases and later addictions. Literal sense "pertaining to time" is rare in English. As a popular slang catch-all word for "cannabis," popularized from 1992 by "The Chronic," an album released by rapper Dr. Dre; originally it described especially potent marijuana, on the notion of "extreme, severe." Related: Chronical; chronically.
+
+**collapse**
+
+释义:
+
+to fall down suddenly because of pressure or having no strength orsupport（由于压力、无力或缺乏支持而）倒塌，坍塌；崩溃，垮掉
+
+例句:
+
+The [chair](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/chair) collapsed under her [weight](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/weight).椅子承受不了她的重量散架了。
+
+词源:
+
+1.选自牛津词源词典
+
+Early 17th century (as collapsed): from medical Latin collapsus, past participle of collabi, from col- ‘together’ + labi ‘to slip’.
+
+2.选自etymonline
+
+1792, "a falling in or together" (originally of the lungs), from [collapse](https://www.etymonline.com/word/collapse?ref=etymonline_crossreference) (v.). From 1801, in a mental sense; meaning "physical prostration" is from 1808; in reference to institutions, etc., "sudden or complete failure," by 1856.
+
+
+
+
+
