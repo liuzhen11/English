@@ -1532,5 +1532,104 @@ Early 17th century (as collapsed): from medical Latin collapsus, past participle
 
 
 
+4月18
 
+**intractable**
 
+释义:
+
+very difficult or impossible to control, manage, or solve难驾驭的；难对付的；难解决的
+
+例句:
+
+We are [facing](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/facing) an intractable [problem](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/problem).我们面临着一个棘手的问题。
+
+词源:
+
+1.选自牛津词源词典
+
+Late 15th century: from Latin intractabilis, from in- ‘not’ + tractabilis (see tractable).
+
+2.选自etymonline
+
+c. 1500, "rough, stormy;" 1540s, "not manageable," from French intractable (15c.) or directly from Latin intractabilis "not to be handled, unmanageable," from in- "not, opposite of" (see [in-](https://www.etymonline.com/word/in-?ref=etymonline_crossreference) (1)) + tractabilis (see [tractable](https://www.etymonline.com/word/tractable?ref=etymonline_crossreference)). Related: Intractably.
+
+**anatomy**
+
+释义:
+
+ the scientific study of the body and how its parts are arranged解剖学
+
+例句:
+
+An [understanding](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/understanding) of [human](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/human) anatomy is [important](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/important) to a [dancer](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/dancer).对于一个舞蹈演员来说，通晓一些人体解剖学知识非常重要。
+
+词源:
+
+1.选自牛津词源词典
+
+Late Middle English: from Old French anatomie or late Latin anatomia, from Greek, from ana- ‘up’ + tomia ‘cutting’ (from temnein ‘to cut’).
+
+2.选自etymonline
+
+late 14c., "study or knowledge of the structure and function of the human body" (learned by dissection); c. 1400, "anatomical structure," from Old French anatomie and directly from Late Latin anatomia, from late Greek anatomia for classical anatome "dissection," literally "a cutting up," from ana "up" (see [ana-](https://www.etymonline.com/word/ana-?ref=etymonline_crossreference)) + temnein "to cut" (from PIE root [*tem-](https://www.etymonline.com/word/*tem-?ref=etymonline_crossreference) "to cut").
+
+**clairvoyant**
+
+释义:
+
+a person who says they have powers to see the future or see things that otherpeople cannot see先知；能预见未来的人；有洞察力的人；神视者，千里眼
+
+例句:
+
+She went to [see](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/see) a clairvoyant who said he could [communicate](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/communicate) with her [dead](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/dead) [husband](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/husband).她去见了一位高人，那人自称能和她死去的丈夫交谈。
+
+词源:
+
+1.选自牛津词源词典
+
+Late 17th century (in the sense ‘clear-sighted, perceptive’): from French, from clair ‘clear’ + voyant ‘seeing’ (from voir ‘to see’). The current sense dates from the mid 19th century.
+
+2.选自etymonline
+
+1834 in the psychic sense, "person supposed to possess powers of clairvoyance;" see [clairvoyant](https://www.etymonline.com/word/clairvoyant?ref=etymonline_crossreference) (adj.). Earlier it was used in the sense "clear-sighted person" (1794). Fem. form is Clairvoyante.
+
+**equilibrium**
+
+释义:
+
+a state of balance平衡；均衡
+
+例句:
+
+The [disease](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/disease) [destroys](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/destroy) much of the [inner](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/inner) [ear](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/ear), [disturbing](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/disturbing) the animal's equilibrium.这种疾病破坏动物内耳的大部分组织，妨碍其保持均衡。
+
+词源:
+
+1.选自牛津词源词典
+
+Early 17th century (in the sense ‘well-balanced state of mind’): from Latin aequilibrium, from aequi- ‘equal’ + libra ‘balance’.
+
+2.选自etymonline
+
+c. 1600, "state of mental balance," from Latin aequilibrium "an even balance; a horizontal position," from aequilibris "equal, level, horizontal, evenly balanced," from aequus "equal" (see [equal](https://www.etymonline.com/word/equal?ref=etymonline_crossreference) (adj.)) + libra "a balance, pair of scales, plummet" (see [Libra](https://www.etymonline.com/word/Libra?ref=etymonline_crossreference)). Related: Equilibrious.
+
+**whack**
+
+释义:
+
+to hit someone or something noisily猛打，猛击，重击
+
+例句:
+
+He whacked the [tree](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/tree) [trunk](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/trunk) with his [stick](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/stick).他用手杖猛击树干。
+
+词源:
+
+1.选自牛津词源词典
+
+Early 18th century: imitative, or perhaps an alteration of thwack.
+
+2.选自etymonline
+
+"to strike sharply," 1719, probably of imitative origin. The noun is from 1737. The word in out of whack (1885) is perhaps the slang meaning "share, just portion" (1785), which may be from the notion of the blow that divides, or the rap of the auctioneer's hammer. To have (or take) a whack at something "make an attempt" is from 1891. Related: Whacked; whacking. Whacked out is from 1969.
