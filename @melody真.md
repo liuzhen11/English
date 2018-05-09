@@ -1897,3 +1897,46 @@ Mid 17th century: from brew, probably on the pattern of Dutch brouwerij.
 2.选自etymonline
 
 1650s (but perhaps from c. 1200 as a surname element); see [brew](https://www.etymonline.com/word/brew?ref=etymonline_crossreference) (v.) + [-ery](https://www.etymonline.com/word/-ery?ref=etymonline_crossreference). Old English had breawern in this sense (from aern "house;" see [barn](https://www.etymonline.com/word/barn?ref=etymonline_crossreference)), and [brewhouse](https://www.etymonline.com/word/brewhouse?ref=etymonline_crossreference) was the more common word through 18c.
+
+5月9日
+
+**sorely**
+
+释义:
+
+extremely; very much极其；非常
+
+例句:
+
+I was sorely [tempted](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/tempt) to say [exactly](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/exactly) what I [thought](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/thought) of his [offer](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/offer).我真想如实说说我对他的提议的看法。
+
+词源:
+
+1.选自牛津词典词源
+
+Old English sārlīce (see sore, -ly).
+
+2.选自etymonline
+
+Old English sarlice "grievously, mournfully, bitterly, painfully;" see [sore](https://www.etymonline.com/word/sore?ref=etymonline_crossreference) (adj.) + [-ly](https://www.etymonline.com/word/-ly?ref=etymonline_crossreference) (2).
+
+**fledgling**
+
+释义:
+
+new and without experience新的，刚开始的；缺乏经验的
+
+例句:
+
+The [current](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/current) [economic](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/economic) [climate](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/climate) is [particularly](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/particularly) [difficult](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/difficult) for fledgling [businesses](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/business).目前的经济气候对刚起步的公司来说特别艰难。
+
+词源:
+
+1.选自牛津词典词源
+
+Mid 19th century: from the obsolete adjective fledge (see fledge), on the pattern of nestling.
+
+2.选自etymonline
+
+also fledgeling, 1830, "untried" (adj.), in Tennyson; 1846 as a noun meaning "young bird" (one newly fledged); from [fledge](https://www.etymonline.com/word/fledge?ref=etymonline_crossreference) + diminutive suffix [-ling](https://www.etymonline.com/word/-ling?ref=etymonline_crossreference). Of persons, from 1856.
+
